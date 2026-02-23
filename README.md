@@ -23,7 +23,7 @@ Actualizado: 14/01/2026
 >>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
 >>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
-Grupo: DIUx_AABB.  Curso: 2025/26 
+Grupo: DIU2.JoMax.  Curso: 2025/26 
 
 Nombre del Proyecto: 
 
