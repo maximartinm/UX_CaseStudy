@@ -63,9 +63,10 @@ Miembros y nombre del equipo:
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
-
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
-
+Actualmente, estamos viendo un auge en el número de cafeterías de especialidad en nuestra ciudad. Nuestro proyecto se basa en el análisis de la experiencia en la cafetería, baristas y el café de autor. 
+Se nos propone crear una página para una cafetería desde cero. Desde nuestra experiencia, que es muy baja en diseño web, nos limitaremos a buscar un profesional en UX y nosotros nos encargaremos más de la parte de accesibilidad y aconsejar en el diseño a este profesional.
+Primero, estudiaremos el mercado y veremos los tipos de usuarios que acuden a este tipo de cafeterías, y poder conseguir así una mejor experiencia de estos consumidores. Después, nos fijaremos en cómo diseñan nuestros competidores estas páginas web, para buscarles puntos débiles y poder resaltar en el mercado.
+Por último, tras el análisis comentaremos con el profesional y le daremos todos los detalles de cómo queremos realizar el desarrollo de nuestra web.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
