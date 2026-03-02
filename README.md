@@ -73,7 +73,11 @@ Por último, tras el análisis comentaremos con el profesional y le daremos todo
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+
+* [Despiertoo](https://www.despiertoo.com/)
+* [La Finca](https://lafincaroaster.com/)
+* [Seda Coffee](https://sedacoffee.com/)
+
 ![Competitive Analysis](img/CompetitorAnalysis.png)
 
 ### 1.c Personas
