@@ -1,5 +1,5 @@
 # DIU26
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: Cafetería y experiencia Barista ) 
 
 * [Guiones de prácticas](GuionesPracticas/)
 * [Guía para crea tu Case Study](Guia_CaseStudy.md)
