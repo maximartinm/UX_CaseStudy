@@ -78,7 +78,7 @@ Por último, tras el análisis comentaremos con el profesional y le daremos todo
 * [La Finca](https://lafincaroaster.com/)
 * [Seda Coffee](https://sedacoffee.com/)
 
-![Competitive Analysis](img/CompetitorAnalysis.png)
+![Competitive Analysis](img/AnalisisCompetidores.png)
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
