@@ -89,6 +89,11 @@ Nuestro objetivo ha sido analizar, comparar los puntos fuertes de las tres pági
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
+Presentamos dos perfiles con perspectivas diferentes, pero unidos por la búsqueda de una experiencia de usuario de calidad en el sector barista:
+
+ -Luis López es un opositor de 26 años, metódico y tecnológico, que busca en las cafeterías un entorno funcional, silencioso y con buen café para potenciar su rendimiento académico.
+
+ -Laura García es una abogada de 38 años, creativa y amante del diseño, que utiliza estos espacios como un refugio sensorial para desconectar del estrés laboral a través de la lectura y la gastronomía artesanal.
 
 ![Persona 1](img/Persona_1.png)
 
