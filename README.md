@@ -38,8 +38,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros y nombre del equipo:
- * Jose Miguel Estella Román 
- * Máximo Martín Moreno
+ * :bust_in_silhouette: Jose Miguel Estella Román    :octocat: https://github.com/jomesro
+ * :bust_in_silhouette: Máximo Martín Moreno         :octocat: https://github.com/maximartinm
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
