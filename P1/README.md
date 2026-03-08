@@ -2,7 +2,7 @@
 ## Paso 1. UX User & Desk Research & Analisis 
 
 ### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
+![Método UX](../img/Competitive.png) 
 -----
 Actualmente, estamos viendo un auge en el número de cafeterías de especialidad en nuestra ciudad. Nuestro proyecto se basa en el análisis de la experiencia en la cafetería, baristas y el café de autor.
 
@@ -12,7 +12,7 @@ Primero, estudiaremos el mercado y veremos los tipos de usuarios que acuden a es
 Por último, tras el análisis comentaremos con el profesional y le daremos todos los detalles de cómo queremos realizar el desarrollo de nuestra web.
 
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
+![Método UX](../img/Competitive.png) 
 -----
 Hemos decidido centrarnos en la página de **"La Finca Roaster"**. Aunque cuenta con una base sólida y pocos fallos, consideramos que hay aspectos muy concretos que mejorar en esta página frente a las otras, por lo que podremos detectar oportunidades de mejora y optimizar aún más la usabilidad y la experiencia de compra de esta plataforma.
 
