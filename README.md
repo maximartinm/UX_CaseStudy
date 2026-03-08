@@ -108,7 +108,7 @@ Luis y Laura exploran el ecosistema del café de especialidad en Granada buscand
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
-
+La página de La Finca ha obtenido un ___ sobre 100
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
 >>> - URL y Valoración numérica obtenida: 
