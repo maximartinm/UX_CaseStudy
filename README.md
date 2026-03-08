@@ -108,7 +108,8 @@ Luis y Laura exploran el ecosistema del café de especialidad en Granada buscand
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
-La página de La Finca ha obtenido un ___ sobre 100
+La página de La Finca ha obtenido un 69 sobre 100
+![Método UX](img/UsabilityReview.png) 
 
 La Finca nos ofrece una página web muy agradable a la vista con colores azules y blancos que nos facilitan la lectura de los elementos de la web. 
 
