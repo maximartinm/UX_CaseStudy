@@ -41,8 +41,6 @@ Miembros y nombre del equipo:
  * :bust_in_silhouette: Jose Miguel Estella Román    :octocat: https://github.com/jomesro
  * :bust_in_silhouette: Máximo Martín Moreno         :octocat: https://github.com/maximartinm
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
 ----- 
 
 <br>
