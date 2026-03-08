@@ -90,7 +90,7 @@ Presentamos dos perfiles con perspectivas diferentes, pero unidos por la búsque
 
  -Laura García es una abogada de 38 años, creativa y amante del diseño, que utiliza estos espacios como un refugio sensorial para desconectar del estrés laboral a través de la lectura y la gastronomía artesanal.
 
-![Persona 1](img/Persona_1.png)
+![Persona 1](img/Persona_1.png)  
 
 ![Persona 2](img/Persona_2.png)
 
@@ -98,9 +98,13 @@ Presentamos dos perfiles con perspectivas diferentes, pero unidos por la búsque
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
-Luis y Laura exploran el ecosistema del café de especialidad en Granada buscando, desde perspectivas muy distintas, un "tercer lugar" que complemente sus exigentes rutinas. Para Luis, un opositor que huye de la saturación de las bibliotecas, la cafetería representa un entorno de alta productividad donde el café barista es el combustible necesario para sus sesiones de estudio. Su experiencia se centra en la eficiencia: busca un local espacioso con buena conexión y enchufes, aunque la falta de información técnica en la web y la incertidumbre sobre la ocupación del local dificultan su planificación. Por su parte, Laura busca un refugio sensorial para desconectar de la presión emocional de su trabajo en el juzgado. Para ella, la estética y la tranquilidad son fundamentales para disfrutar de su lectura, pero se enfrenta a retos como la afluencia de turistas o la música demasiado alta, lo que le genera dudas sobre si el ambiente será realmente el rincón de paz que necesita antes de volver a casa.
-![User Journey 1](img/Journey1.png)
+Luis y Laura exploran el ecosistema del café de especialidad en Granada buscando, desde perspectivas muy distintas, un "tercer lugar" que complemente sus exigentes rutinas.  
+Para Luis, un opositor que huye de la saturación de las bibliotecas, la cafetería representa un entorno de alta productividad donde el café barista es el combustible necesario para sus sesiones de estudio. Su experiencia se centra en la eficiencia: busca un local espacioso con buena conexión y enchufes, aunque la falta de información técnica en la web y la incertidumbre sobre la ocupación del local dificultan su planificación.  
+Por su parte, Laura busca un lugar tranquilo para desconectar de la presión de su trabajo. Para ella, la estética y la tranquilidad son fundamentales para disfrutar de su lectura, pero se enfrenta a retos como la afluencia de turistas, dificultad de encontrar sitio y ruido. Esto le genera dudas sobre si el ambiente será realmente el rincón de paz ideal para leer. El sitio le ha encantado por lo que la próxima vez llevará a su amiga a probar el café de especialidad, también pedirá por la web el café que tanto le ha gustado.  
 
+![User Journey 1](img/Journey1.png)  
+
+ 
 ![User Journey 2](img/Journey2.png)
 
 ### 1.e Usability Review
