@@ -28,7 +28,7 @@ Nuestro objetivo ha sido analizar, comparar los puntos fuertes de las tres pági
 ![Competitive Analysis](../img/AnalisisCompetidores.png)
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
+![Método UX](../img/Persona.png) 
 -----
 Presentamos dos perfiles con perspectivas diferentes, pero unidos por la búsqueda de una experiencia de usuario de calidad en el sector barista:
 
@@ -50,7 +50,7 @@ Luis y Laura exploran el ecosistema del café de especialidad en Granada buscand
 ![User Journey 2](../img/Journey2.png)
 
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
+![Método UX](../img/usabilityReview.png) 
 ----
 La página de La Finca ha obtenido un 69 sobre 100
 ![Método UX](../img/UsabilityReview.png) 
