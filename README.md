@@ -111,14 +111,11 @@ Luis y Laura exploran el ecosistema del café de especialidad en Granada buscand
 La página de La Finca ha obtenido un 69 sobre 100
 ![Método UX](img/UsabilityReview.png) 
 
-La Finca nos ofrece una página web muy agradable a la vista con colores azules y blancos que nos facilitan la lectura de los elementos de la web. 
+En cuanto a la estética, la página web resulta visualmente atractiva y cuidada, ofreciendo un diseño que en primera instancia es agradable para el usuario. Sin embargo, a nivel de usabilidad y contenido, la página presenta bastantes aspectos negativos a comentar que afectan a la experiencia general. Lo primero que se puede observar es una clara falta de información sobre la identidad del negocio; no se muestran imágenes ni datos sobre el establecimiento físico, por lo que al usuario no le queda nada claro si se trata de una tienda online, una cafetería física o ambas cosas, lo cual genera confusión desde el primer momento.
+
+Otro problema importante a nivel de navegación es que la web no cuenta con una barra de búsqueda. Esta carencia obliga al usuario a navegar manualmente por todo el catálogo para encontrar un producto específico, lo que puede llegar a frustrar y saturar al comprador. Por otra parte, el proceso de compra (checkout) tiene problemas graves que penalizan la conversión. En primer lugar, la página se vuelve notablemente lenta durante este paso final. A esto se le suma que los formularios del proceso de compra no marcan de forma clara cuáles son los campos obligatorios, lo que propicia que el usuario cometa errores al rellenar sus datos, se frustre al intentar avanzar y sea mucho más propenso a abandonar el carrito antes de pagar.
 
 Enlace: [Usability Review La Finca](P1/Usability-review-JoMax.xlsx).
-
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 
 <br>
 
