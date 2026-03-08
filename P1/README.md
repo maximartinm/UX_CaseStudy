@@ -25,7 +25,7 @@ Nuestro objetivo ha sido analizar, comparar los puntos fuertes de las tres pági
 * [La Finca](https://lafincaroaster.com/)
 * [Seda Coffee](https://sedacoffee.com/)
 
-![Competitive Analysis](img/AnalisisCompetidores.png)
+![Competitive Analysis](../img/AnalisisCompetidores.png)
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
@@ -36,29 +36,29 @@ Presentamos dos perfiles con perspectivas diferentes, pero unidos por la búsque
 
  -Laura García es una abogada de 38 años, creativa y amante del diseño, que utiliza estos espacios como un refugio sensorial para desconectar del estrés laboral a través de la lectura y la gastronomía artesanal.
 
-![Persona 1](img/Persona_1.png)
+![Persona 1](../img/Persona_1.png)
 
-![Persona 2](img/Persona_2.png)
+![Persona 2](../img/Persona_2.png)
 
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
+![Método UX](../img/JourneyMap.png) 
 ----
 Luis y Laura exploran el ecosistema del café de especialidad en Granada buscando, desde perspectivas muy distintas, un "tercer lugar" que complemente sus exigentes rutinas. Para Luis, un opositor que huye de la saturación de las bibliotecas, la cafetería representa un entorno de alta productividad donde el café barista es el combustible necesario para sus sesiones de estudio. Su experiencia se centra en la eficiencia: busca un local espacioso con buena conexión y enchufes, aunque la falta de información técnica en la web y la incertidumbre sobre la ocupación del local dificultan su planificación. Por su parte, Laura busca un refugio sensorial para desconectar de la presión emocional de su trabajo en el juzgado. Para ella, la estética y la tranquilidad son fundamentales para disfrutar de su lectura, pero se enfrenta a retos como la afluencia de turistas o la música demasiado alta, lo que le genera dudas sobre si el ambiente será realmente el rincón de paz que necesita antes de volver a casa.
-![User Journey 1](img/Journey1.png)
+![User Journey 1](../img/Journey1.png)
 
-![User Journey 2](img/Journey2.png)
+![User Journey 2](../img/Journey2.png)
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
 La página de La Finca ha obtenido un 69 sobre 100
-![Método UX](img/UsabilityReview.png) 
+![Método UX](../img/UsabilityReview.png) 
 
 En cuanto a la estética, la página web resulta visualmente atractiva y cuidada, ofreciendo un diseño que en primera instancia es agradable para el usuario. Sin embargo, a nivel de usabilidad y contenido, la página presenta bastantes aspectos negativos a comentar que afectan a la experiencia general. Lo primero que se puede observar es una clara falta de información sobre la identidad del negocio; no se muestran imágenes ni datos sobre el establecimiento físico, por lo que al usuario no le queda nada claro si se trata de una tienda online, una cafetería física o ambas cosas, lo cual genera confusión desde el primer momento.
 
 Otro problema importante a nivel de navegación es que la web no cuenta con una barra de búsqueda. Esta carencia obliga al usuario a navegar manualmente por todo el catálogo para encontrar un producto específico, lo que puede llegar a frustrar y saturar al comprador. Por otra parte, el proceso de compra (checkout) tiene problemas graves que penalizan la conversión. En primer lugar, la página se vuelve notablemente lenta durante este paso final. A esto se le suma que los formularios del proceso de compra no marcan de forma clara cuáles son los campos obligatorios, lo que propicia que el usuario cometa errores al rellenar sus datos, se frustre al intentar avanzar y sea mucho más propenso a abandonar el carrito antes de pagar.
 
-Enlace: [Usability Review La Finca](P1/Usability-review-JoMax.xlsx).
+Enlace: [Usability Review La Finca](./Usability-review-JoMax.xlsx).
 
 <br>
