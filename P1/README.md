@@ -1,4 +1,4 @@
-## DIU - Practica1, entregables
+## DIU - Practica1
 ## Paso 1. UX User & Desk Research & Analisis 
 
 ### 1.a User Reseach Plan
