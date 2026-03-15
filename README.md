@@ -62,7 +62,8 @@ Actualmente, estamos viendo un auge en el número de cafeterías de especialidad
 
 Se nos propone crear una página para una cafetería desde cero. Desde nuestra experiencia, ya que no somos profesionales, nos limitaremos a buscar un profesional en UX y nosotros nos encargaremos más de la parte de accesibilidad y aconsejar en el diseño a este profesional.
 
-Primero, estudiaremos el mercado y veremos los tipos de usuarios que acuden a este tipo de cafeterías, y poder conseguir así una mejor experiencia de estos consumidores. Después, nos fijaremos en cómo diseñan nuestros competidores estas páginas web, para buscarles puntos débiles y poder resaltar en el mercado.
+Primero, estudiaremos el mercado y veremos los tipos de usuarios que acuden a este tipo de cafeterías, y poder conseguir así una mejor experiencia de estos consumidores. Usando nuestra experiencia en las cafeterías buscaremos que aspectos podemos mejorar respecto a ellas para diferenciarnos y captar más público.  
+Después, nos fijaremos en cómo diseñan nuestros competidores estas páginas web, para buscarles puntos débiles y poder resaltar en el mercado.
 Por último, tras el análisis comentaremos con el profesional y le daremos todos los detalles de cómo queremos realizar el desarrollo de nuestra web.
 
 ### 1.b Competitive Analysis
@@ -70,7 +71,9 @@ Por último, tras el análisis comentaremos con el profesional y le daremos todo
 -----
 Hemos decidido centrarnos en la página de **"La Finca Roaster"**. Aunque cuenta con una base sólida y pocos fallos, consideramos que hay aspectos muy concretos que mejorar en esta página frente a las otras, por lo que podremos detectar oportunidades de mejora y optimizar aún más la usabilidad y la experiencia de compra de esta plataforma.
 
-Como vamos a centrarnos en el tema del café de especialidad y la experiencia barista, analizaremos "La Finca Roaster" frente a otras páginas web como **"Seda Coffee"** o **"Despiertoo"**, que son empresas competidoras muy bien posicionadas y relacionadas con el comercio justo y la calidad del producto de nuestra ciudad, Granada.  
+Como vamos a centrarnos en el tema del café de especialidad y la experiencia barista, analizaremos "La Finca Roaster" frente a otras páginas web como **"Seda Coffee"** o **"Despiertoo"**, que son empresas competidoras muy bien posicionadas y relacionadas con el comercio justo y la calidad del producto de nuestra ciudad, Granada.    
+Estas 3 páginas son muy similares en casi todos los aspectos, por lo que a veces incluso no sabes en cuál de las 3 estas al seguir una estética tan parecida.
+En todas cuesta encontrar imágenes del local, por lo que el usuario puede preguntarse si se trata de una tienda, cafetería o ambas.  
 Aunque el enfoque de "Despiertoo" pueda presentar carencias en accesibilidad, es una marca de café muy concienciada con el diseño visual, la legibilidad y la experiencia de usuario general. Por otro lado, en "Seda Coffee", el modelo de venta directa al consumidor es muy parecido a lo que busca potenciar "La Finca Roaster", destacando especialmente por contar con herramientas útiles de las que La Finca carece, como un buscador interno funcional.
 
 Nuestro objetivo ha sido analizar, comparar los puntos fuertes de las tres páginas y detectar posibles áreas de mejora para nuestro proyecto, tomando como referencia los aspectos positivos de las webs:
