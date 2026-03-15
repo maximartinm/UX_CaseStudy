@@ -4,19 +4,20 @@
 ### 1.a User Reseach Plan
 ![Método UX](../img/Competitive.png) 
 -----
-Actualmente, estamos viendo un auge en el número de cafeterías de especialidad en nuestra ciudad. Nuestro proyecto se basa en el análisis de la experiencia en la cafetería, baristas y el café de autor.
+Actualmente, presenciamos un notable auge en el número de cafeterías de especialidad en nuestra ciudad. Nuestro proyecto consiste en diseñar y desarrollar desde cero la página web para un nuevo local de este tipo, apoyándonos en los conocimientos sobre diseño y desarrollo web adquiridos en nuestra carrera. Nuestro enfoque principal será trasladar la rica experiencia física del local —que incluye el ambiente, la maestría de los baristas y la calidad del café de autor— al entorno digital. Para lograrlo, primero investigaremos en profundidad el mercado y a los distintos tipos de usuarios que frecuentan estas cafeterías (como estudiantes, trabajadores en remoto y entusiastas del café), con el objetivo de comprender sus motivaciones y ofrecerles la mejor experiencia posible.  
 
-Se nos propone crear una página para una cafetería desde cero. Desde nuestra experiencia, ya que no somos profesionales, nos limitaremos a buscar un profesional en UX y nosotros nos encargaremos más de la parte de accesibilidad y aconsejar en el diseño a este profesional.
+Dado que frecuentamos mucho este tipo de locales, combinaremos nuestra propia experiencia observacional con métodos de investigación ágiles. Esta inmersión nos permitirá identificar áreas de mejora respecto a los servicios actuales, ayudándonos a definir estrategias para diferenciarnos y captar a un público más amplio.  
 
-Primero, estudiaremos el mercado y veremos los tipos de usuarios que acuden a este tipo de cafeterías, y poder conseguir así una mejor experiencia de estos consumidores. Después, nos fijaremos en cómo diseñan nuestros competidores estas páginas web, para buscarles puntos débiles y poder resaltar en el mercado.
-Por último, tras el análisis comentaremos con el profesional y le daremos todos los detalles de cómo queremos realizar el desarrollo de nuestra web.
+Posteriormente, llevaremos a cabo un análisis competitivo centrado en cómo diseñan sus páginas web nuestros competidores directos. Evaluaremos su usabilidad y contenido para identificar sus puntos débiles y encontrar oportunidades que nos permitan resaltar en el mercado. Por último, toda esta investigación nos servirá para definir nuestros perfiles de usuario ideales (User Personas) y establecer los requisitos de la página. Tras este análisis, comenzaremos a desarrollar todos los detalles y funcionalidades necesarias para la construcción final de nuestra web.
 
 ### 1.b Competitive Analysis
 ![Método UX](../img/Competitive.png) 
 -----
 Hemos decidido centrarnos en la página de **"La Finca Roaster"**. Aunque cuenta con una base sólida y pocos fallos, consideramos que hay aspectos muy concretos que mejorar en esta página frente a las otras, por lo que podremos detectar oportunidades de mejora y optimizar aún más la usabilidad y la experiencia de compra de esta plataforma.
 
-Como vamos a centrarnos en el tema del café de especialidad y la experiencia barista, analizaremos "La Finca Roaster" frente a otras páginas web como **"Seda Coffee"** o **"Despiertoo"**, que son empresas competidoras muy bien posicionadas y relacionadas con el comercio justo y la calidad del producto de nuestra ciudad, Granada.  
+Como vamos a centrarnos en el tema del café de especialidad y la experiencia barista, analizaremos "La Finca Roaster" frente a otras páginas web como **"Seda Coffee"** o **"Despiertoo"**, que son empresas competidoras muy bien posicionadas y relacionadas con el comercio justo y la calidad del producto de nuestra ciudad, Granada.    
+Estas 3 páginas son muy similares en casi todos los aspectos, por lo que a veces incluso no sabes en cuál de las 3 estas al seguir una estética tan parecida.
+En todas cuesta encontrar imágenes del local, por lo que el usuario puede preguntarse si se trata de una tienda, cafetería o ambas.  
 Aunque el enfoque de "Despiertoo" pueda presentar carencias en accesibilidad, es una marca de café muy concienciada con el diseño visual, la legibilidad y la experiencia de usuario general. Por otro lado, en "Seda Coffee", el modelo de venta directa al consumidor es muy parecido a lo que busca potenciar "La Finca Roaster", destacando especialmente por contar con herramientas útiles de las que La Finca carece, como un buscador interno funcional.
 
 Nuestro objetivo ha sido analizar, comparar los puntos fuertes de las tres páginas y detectar posibles áreas de mejora para nuestro proyecto, tomando como referencia los aspectos positivos de las webs:
