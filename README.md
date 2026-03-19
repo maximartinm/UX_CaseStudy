@@ -155,7 +155,7 @@ En este apartado hemos realizado un feedback capture grid con loas apartados que
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestra web y como de relevante serian para cada tipo de usuario, hemos añadido tres tipos de usuarios, dando las prioridades de alta(H), media(M) y baja(L): 
 
 
 ### 2.c IA: Sitemap + Labelling 
