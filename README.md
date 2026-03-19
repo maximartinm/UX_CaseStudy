@@ -130,7 +130,7 @@ Enlace: [Usability Review La Finca](P1/Usability-review-JoMax.xlsx).
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+En este apartado hemos realizado un feedback capture grid con loas apartados que estan bien de la web de la Finca, lo que debería mejorar y una serie de preguntas que nos ayudaran a proponer nuevas ideas para mejorar la web.
 
 
  Interesante | Críticas     
