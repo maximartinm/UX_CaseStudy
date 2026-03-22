@@ -9,7 +9,7 @@ Tras el análisis de la competencia, hemos utilizado el Feedback Capture Grid pa
 
 Para lograrlo, priorizamos la transparencia visual mediante una galería detallada del local y un sistema de aforo en tiempo real, eliminando la incertidumbre sobre el espacio físico. Además, nos diferenciamos de la competencia ofreciendo servicios de valor añadido como soporte para bicicletas y opciones de suplementación proteica, transformando la web en el centro logístico y emocional de una experiencia barista completa y adaptada a la ciudad.  
   
-![Reframing](img/Reframing.png) 
+![Reframing](../img/Reframing.png) 
 
 ### 2.b ScopeCanvas
 ![Método UX](../img/ScopeCanvas.png)
