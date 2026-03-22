@@ -130,16 +130,11 @@ Enlace: [Usability Review La Finca](P1/Usability-review-JoMax.xlsx).
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
-En este apartado hemos realizado un feedback capture grid con loas apartados que estan bien de la web de la Finca, lo que debería mejorar y una serie de preguntas que nos ayudaran a proponer nuevas ideas para mejorar la web.
+Tras el análisis de la competencia, hemos utilizado el Feedback Capture Grid para sintetizar los hallazgos y convertirlos en soluciones de diseño. En esta matriz no solo abordamos fallos de usabilidad críticos como la lentitud en el checkout o la falta de buscador, sino que redefinimos nuestra propuesta para conectar con las necesidades de Luis (productividad), Laura (paz y amigos) y el público deportista (energía).
 
+Para lograrlo, priorizamos la transparencia visual mediante una galería detallada del local, eliminando la incertidumbre sobre el espacio físico y permitiendo al usuario "sentir" el ambiente antes de ir. El objetivo es que la web no sea solo una tienda online, sino el centro logístico y emocional de una experiencia barista completa en el local.
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+![Reframing](img/Reframing.png) 
 
 
 ### 2.b ScopeCanvas
