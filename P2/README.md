@@ -45,7 +45,7 @@ Siguiendo la metodología UX, hemos asignado prioridades: **Alta (H)**, **Media 
 | **Dejar reseñas sobre el local o producto** | H | H | M |
 | **Gestión de pedidos y stock** | L | L | H |
 
-
+<br><br>
 Para cerrar el análisis de tareas, hemos seleccionado los tres flujos que definen la experiencia diferenciadora de **Graná en Grano**. El primero asegura una **conversión de venta fluida** (corrigiendo los errores vistos en la competencia); el segundo gestiona **la productividad y el aforo** (clave para nuestro usuario Luis); y el tercero garantiza la **transparencia sobre el local y sus servicios** (fundamental para ciclistas y usuarios que buscan un ambiente específico).  
  
 ### 1. Flujo de Compra de Café (Usuario Online)  
