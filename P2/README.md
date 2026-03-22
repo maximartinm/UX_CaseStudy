@@ -5,10 +5,10 @@
 ![Método UX](../img/feedback-capture-grid.png) 
 ----
 
-Tras el análisis de la competencia, hemos utilizado el Feedback Capture Grid para sintetizar los hallazgos y convertirlos en soluciones de diseño. En esta matriz no solo abordamos fallos de usabilidad críticos como la lentitud en el checkout o la falta de buscador, sino que redefinimos nuestra propuesta para conectar con las necesidades de Luis (productividad), Laura (paz y amigos) y el público deportista (energía).
+Tras el análisis de la competencia, hemos utilizado el Feedback Capture Grid para sintetizar los hallazgos y convertirlos en soluciones de diseño. En esta matriz no solo abordamos fallos de usabilidad críticos como la lentitud en el checkout o la falta de buscador, sino que redefinimos nuestra propuesta para conectar con las necesidades de Luis (productividad), Laura (pazy amigos) y el público deportista (nutrición y seguridad).
 
-Para lograrlo, priorizamos la transparencia visual mediante una galería detallada del local, eliminando la incertidumbre sobre el espacio físico y permitiendo al usuario "sentir" el ambiente antes de ir. El objetivo es que la web no sea solo una tienda online, sino el centro logístico y emocional de una experiencia barista completa en el local.
-
+Para lograrlo, priorizamos la transparencia visual mediante una galería detallada del local y un sistema de aforo en tiempo real, eliminando la incertidumbre sobre el espacio físico. Además, nos diferenciamos de la competencia ofreciendo servicios de valor añadido como soporte para bicicletas y opciones de suplementación proteica, transformando la web en el centro logístico y emocional de una experiencia barista completa y adaptada a la ciudad.  
+  
 ![Reframing](img/Reframing.png) 
 
 ### 2.b ScopeCanvas
