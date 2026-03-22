@@ -142,7 +142,7 @@ Tras elegir nuestra identidad de marca, **"Graná en Grano"**, hemos desarrollad
 
 El propósito central de nuestra plataforma es eliminar la brecha entre la tienda online y la experiencia física en el local. Para ello, el canvas establece metas claras: desde la optimización del proceso de compra hasta la creación de una comunidad para deportistas y estudiantes. Este mapa estratégico nos permite asegurar que funcionalidades como el buscador de productos, la galería inmersiva y el indicador de aforo no sean solo añadidos técnicos, sino soluciones directas a los "dolores" de nuestros perfiles (Luis, Laura y el público ciclista), garantizando el éxito y la escalabilidad del proyecto en la ciudad.
 
-![ScopeCanvas](../img/Scope.png) 
+![ScopeCanvas](img/Scope.png) 
 
 
 ### 2.b User Flow (task) analysis 
