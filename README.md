@@ -25,13 +25,10 @@ Actualizado: 14/01/2026
 
 Grupo: DIU2.JoMax.  Curso: 2025/26 
 
-Nombre del Proyecto: 
+Nombre del Proyecto: Graná en Grano 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
-
-Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+Descripción:  
+Convertir Graná en Grano en el epicentro de la cultura barista en Granada, fusionando el café de alta especialidad con un espacio polivalente que sirva de motor para el estudio, refugio para el relax y base logística para el deportista urbano.  
 
 Logotipo: 
 
