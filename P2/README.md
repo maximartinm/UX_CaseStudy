@@ -2,7 +2,7 @@
 ## Paso 2. UX Design  
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](img/feedback-capture-grid.png) 
+![Método UX](../img/feedback-capture-grid.png) 
 ----
 
 Tras el análisis de la competencia, hemos utilizado el Feedback Capture Grid para sintetizar los hallazgos y convertirlos en soluciones de diseño. En esta matriz no solo abordamos fallos de usabilidad críticos como la lentitud en el checkout o la falta de buscador, sino que redefinimos nuestra propuesta para conectar con las necesidades de Luis (productividad), Laura (paz y amigos) y el público deportista (energía).
@@ -12,7 +12,7 @@ Para lograrlo, priorizamos la transparencia visual mediante una galería detalla
 ![Reframing](img/Reframing.png) 
 
 ### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
+![Método UX](../img/ScopeCanvas.png)
 ----
 
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
@@ -21,14 +21,14 @@ Para lograrlo, priorizamos la transparencia visual mediante una galería detalla
 
 
 ### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
+![Método UX](../img/Sitemap.png) 
 -----
 
 En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestra web y como de relevante serian para cada tipo de usuario, hemos añadido tres tipos de usuarios, dando las prioridades de alta(H), media(M) y baja(L): 
 
 
 ### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
+![Método UX](../img/labelling.png) 
 ----
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
@@ -39,7 +39,7 @@ Término | Significado
 
 
 ### 2.d Wireframes
-![Método UX](img/Wireframes.png) 
+![Método UX](../img/Wireframes.png) 
 -----
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
