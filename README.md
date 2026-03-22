@@ -32,7 +32,7 @@ Convertir Graná en Grano en el epicentro de la cultura barista en Granada, fusi
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![Logo](img/Logo.png) 
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette: Jose Miguel Estella Román    :octocat: https://github.com/jomesro
