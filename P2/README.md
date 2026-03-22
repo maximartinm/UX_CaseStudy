@@ -15,8 +15,11 @@ Para lograrlo, priorizamos la transparencia visual mediante una galería detalla
 ![Método UX](../img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+Tras elegir nuestra identidad de marca, "Graná en Grano", hemos desarrollado este Scope Canvas para alinear los objetivos de negocio con las necesidades reales de nuestros usuarios.
+
+El propósito central de nuestra plataforma es eliminar la brecha entre la tienda online y la experiencia física en el local. Para ello, el canvas establece metas claras: desde la optimización del proceso de compra hasta la creación de una comunidad para deportistas y estudiantes. Este mapa estratégico nos permite asegurar que funcionalidades como el buscador de productos, la galería inmersiva y el indicador de aforo no sean solo añadidos técnicos, sino soluciones directas a los "dolores" de nuestros perfiles (Luis, Laura y el público ciclista), garantizando el éxito y la escalabilidad del proyecto en la ciudad.
+
+![ScopeCanvas](../img/ScopeCanvas.png) 
 
 
 
