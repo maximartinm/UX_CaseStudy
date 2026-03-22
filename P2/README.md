@@ -25,9 +25,25 @@ El propósito central de nuestra plataforma es eliminar la brecha entre la tiend
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](../img/Sitemap.png) 
------
+-----  
 
-En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestra web y como de relevante serian para cada tipo de usuario, hemos añadido tres tipos de usuarios, dando las prioridades de alta(H), media(M) y baja(L): 
+Para estructurar la arquitectura de la web y priorizar las funcionalidades críticas de **Graná en Grano**, hemos elaborado esta matriz de tareas. Hemos clasificado las acciones más relevantes para nuestros tres grupos principales de usuarios: el **Cliente Presencial** (estudiantes y creativos), el **Cliente Online** (compradores de café de especialidad) y el **Administrador** (gestión del local).
+
+Siguiendo la metodología UX, hemos asignado prioridades: **Alta (H)**, **Media (M)** y **Baja (L)**.
+
+| Tareas de Usuario | Cliente Presencial | Cliente Online | Administrador |
+| :--- | :---: | :---: | :---: |
+| **Consultar ubicación y cómo llegar** | H | L | L |
+| **Verificar servicios (Wi-fi, enchufes, parking bicis)** | H | L | M |
+| **Consultar aforo en tiempo real** | H | L | H |
+| **Ver fotos del interior (Galería)** | H | M | M |
+| **Consultar carta de consumición local** | H | M | H |
+| **Buscar productos (Grano, suplementos)** | M | H | H |
+| **Añadir al carrito y realizar el pago** | L | H | H |
+| **Gestionar suscripciones de café** | L | H | H |
+| **Consultar dudas y FAQs** | H | H | H |
+| **Dejar reseñas sobre el local o producto** | H | H | M |
+| **Gestión de pedidos y stock** | L | L | H |
 
 
 ### 2.c IA: Sitemap + Labelling 
