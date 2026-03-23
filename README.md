@@ -77,7 +77,7 @@ Nuestro objetivo ha sido analizar, comparar los puntos fuertes de las tres pági
 * [La Finca](https://lafincaroaster.com/)
 * [Seda Coffee](https://sedacoffee.com/)
 
-![Competitive Analysis](img/AnalisisCompetidores.png)
+![Competitive Analysis](img/3star.png)
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
