@@ -57,7 +57,7 @@ Este es vuestro gran elemento diferenciador: permite al cliente asegurar que ten
 ![Flujo2](../img/Flujo2.png) 
   
 #### 3. Flujo de Verificación de Servicios y Ruta
-Este flujo ayuda a decidir a los ciclistas si el local es seguro para sus bicis y a Laura si el ambiente es el que busca.  
+Este flujo ayuda a decidir a los ciclistas si el local es seguro para sus bicis y al cliente si el ambiente es el que busca.  
 ![Flujo3](../img/Flujo3.png) 
   
 
