@@ -53,7 +53,7 @@ Este flujo resuelve la necesidad de compra de café de especialidad y suplemento
 ![Flujo1](../img/Flujo1.png) 
 
 #### 2. Flujo de Consulta de Aforo y Reserva de Puesto
-Este es vuestro gran elemento diferenciador: permite a Luis asegurar que tendrá un enchufe antes de ir.  
+Este es vuestro gran elemento diferenciador: permite al cliente asegurar que tendrá un enchufe antes de ir.  
 ![Flujo2](../img/Flujo2.png) 
   
 #### 3. Flujo de Verificación de Servicios y Ruta
