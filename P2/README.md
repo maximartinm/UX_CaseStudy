@@ -78,7 +78,7 @@ Término | Significado
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
 >>> HOMEPAGE
-![HomePage](../img/Homepage.png)
+![HomePage](../img/HomePage.png)
 >>> NUESTRO ESPACIO
 ![NuestroEspacio](../img/NuestroEspacio.png)
 >>> RESULTADO BUSQUEDA
