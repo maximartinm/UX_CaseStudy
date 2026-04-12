@@ -104,8 +104,5 @@ Presentamos el diseño del layout para Web/movil (organización y simulación):
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
 
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+Esta fase de ideación y reframing ha sido clave para evolucionar el concepto de "Graná en Grano" de una simple cafetería a un ecosistema digital integral. Al priorizar una arquitectura de información clara y la transparencia sobre el local físico, hemos resuelto los defectos detectados en la competencia. El resultado es una propuesta de valor sólida que no solo vende café de especialidad, sino que facilita una experiencia barista real adaptada a las necesidades de estudiantes, trabajadores en remoto y deportistas.
