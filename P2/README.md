@@ -67,21 +67,37 @@ Este flujo ayuda a decidir a los ciclistas si el local es seguro para sus bicis 
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+Para **Graná en Grano**, hemos diseñado una arquitectura de información que facilita la navegación tanto para el cliente digital como para el presencial. A continuación, se definen los términos utilizados en la plataforma para asegurar un diálogo claro y directo con el usuario.
+
+| Etiqueta | Información / Significado | Icono |
+| :--- | :--- | :---: |
+| **Página de Inicio** | Portada principal con acceso a novedades y buscador global. | 🏠 |
+| **Tienda** | Catálogo de café de especialidad, suplementos y accesorios. | 🛍️ |
+| **Aforo Real** | Indicador de ocupación y disponibilidad de mesas en tiempo real. | 👥 |
+| **Espacios** | Información sobre zonas de trabajo, lectura y terraza. | 📍 |
+| **Bici-Parking** | Detalles sobre la seguridad y ubicación del estacionamiento de bicicletas. | 🚲 |
+| **Acceder** | Entrada al perfil personal y gestión de datos de usuario. | 🔑 |
+| **Cesta** | Resumen de los productos seleccionados y trámite de pedido. | 🧺 |
+| **Suscripción** | Configuración de envíos recurrentes de café de temporada. | 📅 |
+| **Conectividad** | Información técnica sobre la velocidad del WiFi y disponibilidad de enchufes. | 🔌 |
+| **Talleres** | Sección de formación, eventos y catas baristas. | 🎓 |
+| **Ambiente** | Sensor del nivel de ruido en las distintas zonas del local. | 🔈 |
+| **Buscador** | Herramienta de búsqueda para productos, servicios y contenidos. | 🔍 |
 
 
 ### 2.d Wireframes
 ![Método UX](../img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
->>> HOMEPAGE
+Presentamos el diseño del layout para Web/movil (organización y simulación):  
+
+#### HOMEPAGE  
 ![HomePage](../img/HomePage.jpg)
->>> NUESTRO ESPACIO
+ 
+#### NUESTRO ESPACIO  
 ![NuestroEspacio](../img/NuestroEspacio.jpg)
->>> RESULTADO BUSQUEDA
+
+#### RESULTADO BÚSQUEDA  
 ![ResultadoBusqueda](../img/ResultadoBusqueda.jpg) 
   
 <br>
