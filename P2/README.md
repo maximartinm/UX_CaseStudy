@@ -65,7 +65,7 @@ Este flujo ayuda a decidir a los ciclistas si el local es seguro para sus bicis 
 ![Método UX](../img/labelling.png) 
 ----
 
-![Sitemap](../img/sitemap.jpg)
+![Sitemap](../img/sitemap.png)
 
 Para **Graná en Grano**, hemos diseñado una arquitectura de información que facilita la navegación tanto para el cliente digital como para el presencial. A continuación, se definen los términos utilizados en la plataforma para asegurar un diálogo claro y directo con el usuario.
 
