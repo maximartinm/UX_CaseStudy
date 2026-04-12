@@ -65,7 +65,7 @@ Este flujo ayuda a decidir a los ciclistas si el local es seguro para sus bicis 
 ![Método UX](../img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+![Sitemap](../img/sitemap.jpg)
 
 Para **Graná en Grano**, hemos diseñado una arquitectura de información que facilita la navegación tanto para el cliente digital como para el presencial. A continuación, se definen los términos utilizados en la plataforma para asegurar un diálogo claro y directo con el usuario.
 
