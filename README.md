@@ -256,46 +256,47 @@ Esta fase de ideación y reframing ha sido clave para evolucionar el concepto de
 ----
 
 3.c Guidelines
+Aquí tienes el texto limpio, sin negritas ni asteriscos, listo para copiar y pegar en tu README.md:
+3.c Guidelines
 Patrón de diseño
 
-Nuestro patrón de diseño está centrado en transmitir calidad premium, enfoque (concentración) y vitalidad. Usamos un enfoque minimalista y equilibrado, con una jerarquía visual clara que permite una navegación rápida tanto para el usuario que busca un lugar de estudio silencioso como para el deportista en ruta.
+Nuestro patrón de diseño está centrado en transmitir calidad premium, enfoque (concentración) y vitalidad. Aplicamos un enfoque minimalista y equilibrado, con una jerarquía visual clara que permite una navegación rápida tanto para el usuario que busca un lugar de estudio silencioso como para el deportista en ruta.
 
 Los tonos tierra y dorados se combinan con una tipografía Serif elegante para los títulos (artesanía) y una Sans-Serif moderna para los datos técnicos (eficiencia). La estética es acogedora pero técnica, priorizando la previsibilidad del entorno (disponibilidad de sitios/enchufes) y la facilidad logística (parking de bicis/pedidos rápidos).
 Patrones de UI utilizados
 
-Estos son los patrones que hemos decidido implementar para la fase de prototipado:
+Para la fase de prototipado, hemos seleccionado los siguientes patrones:
 
-    Header fijo con navegación clara: Logotipo central que actúa como botón de inicio. El menú se adapta según el estado del usuario: si no está registrado, muestra "Login/Registro"; si lo está, muestra su perfil con sus "Puntos Grano" (fidelización).
+Header fijo con navegación clara: Logotipo central como botón de inicio. El menú es adaptativo: muestra Login/Registro para invitados o el perfil con Puntos Grano para usuarios registrados.
 
-    Hero con propuesta de valor + CTA: Imagen visual de alta calidad (café artesanal o entorno del local) con el eslogan "Tu refugio sensorial. Tu energía en ruta" y una llamada a la acción principal: "Ver Aforo en Tiempo Real".
+Hero con propuesta de valor + CTA: Imagen de alta calidad con el eslogan principal y una llamada a la acción crítica: Ver Aforo en Tiempo Real.
 
-    Status Indicator (Semáforo de ocupación): Patrón visual crítico para Luis y Laura. Un indicador dinámico (Verde/Ámbar/Rojo) que informa sobre la disponibilidad de mesas y enchufes antes de desplazarse al local.
+Status Indicator (Semáforo de ocupación): Indicador dinámico (Verde/Ámbar/Rojo) sobre la disponibilidad de mesas y enchufes, vital para la planificación de los usuarios.
 
-    Cards modulares de Servicios: Tarjetas reutilizables y responsivas para categorizar la oferta: "Zona de Silencio", "Parking Seguro de Bicis", "Córner de Café Filtrado" y "Fibra Óptica 1Gb".
+Cards modulares de Servicios: Tarjetas responsivas para categorizar la oferta (Zona de Silencio, Parking de Bicis, Fibra Óptica, etc.).
 
-    Wizards (Pedido rápido): Proceso de pedido para llevar (Take away) dividido en pasos secuenciales: 1. Selección de grano/bebida, 2. Personalización (leche/extras) y 3. Hora de recogida. Evita la sobrecarga cognitiva del deportista que tiene poco tiempo.
+Wizards (Pedido rápido): Proceso de pedido Take away en pasos secuenciales (Selección, Personalización, Recogida) para minimizar la carga cognitiva.
 
-    Article List (Blog/Eventos): Listado vertical en la sección "Comunidad" para anunciar catas de café, quedadas de running o talleres de barista, con miniaturas y etiquetas de categoría.
+Article List (Blog/Eventos): Listado vertical para la sección de comunidad (catas, running, talleres) con miniaturas y etiquetas.
 
-    Item details + actions (Ficha de producto): Muestra información técnica detallada del café (origen, altura, notas de cata y nivel de cafeína para rendimiento deportivo). Incluye botones para "Añadir a favoritos" o "Pedir ahora".
+Item details + actions (Ficha de producto): Información técnica detallada del café (notas de cata, origen y nivel de cafeína) con acciones directas de compra o favoritos.
 
-    Form Input (Reserva de mesa/evento): Formulario optimizado para reservar espacio en la zona de estudio o apuntarse a un evento deportivo, con validación en tiempo real y selector de fecha tipo calendario.
+Form Input (Reserva): Formularios optimizados con validación en tiempo real y selectores de fecha tipo calendario.
 
-    About (Nuestra Misión): Sección detallada sobre el origen de los granos, la conexión con Granada y la historia de los fundadores, reforzando la confianza y la cercanía.
+About (Nuestra Misión): Contenido detallado sobre el origen del grano y la historia de la marca para generar confianza.
 
-    Diseño Responsive: Optimización total para móvil con Menú inferior (Tab Bar) para acceso rápido a "Inicio", "Pedido", "Mapa/Aforo" y "Perfil", facilitando el uso con una sola mano para el ciclista o corredor.
-
+Diseño Responsive: Optimización para móvil mediante una Tab Bar inferior que facilita el uso con una sola mano durante desplazamientos activos.
 Estilo de lenguaje
 
-Utilizamos un tono profesional, inspirador y directo. Queremos que el usuario sienta que entendemos su necesidad de rendimiento (deporte/estudio) y su deseo de calidad.
+El tono es profesional, inspirador y directo, enfocado en el rendimiento y la calidad.
 
-    Voz de marca: Hablamos de "nosotros" como anfitriones y del usuario como parte de la comunidad: "Preparamos tu sitio", "Tu energía te espera".
+Voz de marca: Cercana y comunitaria ("Preparamos tu sitio", "Tu energía te espera").
 
-    Claridad técnica: Evitamos el exceso de adjetivos innecesarios. Si el café es para un deportista, destacamos su "Efecto ergogénico" o "Cafeína natural"; si es para Luis, destacamos el "Ambiente Cero Distracciones".
+Claridad técnica: Uso de términos específicos pero útiles ("Efecto ergogénico", "Ambiente Cero Distracciones") evitando el relleno innecesario.
 
-    Llamados a la acción (CTAs): Son proactivos y útiles: "Asegura tu mesa", "Recárgate", "Únete a la ruta".
+Llamados a la acción (CTAs): Proactivos y orientados al beneficio ("Asegura tu mesa", "Recárgate", "Únete a la ruta").
 
-    Nuestro eslogan: "Tradición en cada grano, energía para tu día."
+Eslogan: "Tradición en cada grano, energía para tu día."
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
