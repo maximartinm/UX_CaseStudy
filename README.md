@@ -255,9 +255,6 @@ Esta fase de ideación y reframing ha sido clave para evolucionar el concepto de
 ![Método UX](img/guidelines.png) 
 ----
 
-Perfecto, basándome en el ejemplo que has pasado y adaptándolo totalmente a la identidad de Graná en Grano (enfocada en el café de especialidad, Luis el opositor, Laura la abogada y los deportistas urbanos), aquí tienes el apartado 3.c Guidelines listo para tu documento.
-
-He mantenido la estructura exacta del ejemplo para que el profesor vea que sigues el formato requerido.
 3.c Guidelines
 Patrón de diseño
 
