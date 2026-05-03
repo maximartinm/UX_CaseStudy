@@ -255,9 +255,50 @@ Esta fase de ideación y reframing ha sido clave para evolucionar el concepto de
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Perfecto, basándome en el ejemplo que has pasado y adaptándolo totalmente a la identidad de Graná en Grano (enfocada en el café de especialidad, Luis el opositor, Laura la abogada y los deportistas urbanos), aquí tienes el apartado 3.c Guidelines listo para tu documento.
 
+He mantenido la estructura exacta del ejemplo para que el profesor vea que sigues el formato requerido.
+3.c Guidelines
+Patrón de diseño
+
+Nuestro patrón de diseño está centrado en transmitir calidad premium, enfoque (concentración) y vitalidad. Usamos un enfoque minimalista y equilibrado, con una jerarquía visual clara que permite una navegación rápida tanto para el usuario que busca un lugar de estudio silencioso como para el deportista en ruta.
+
+Los tonos tierra y dorados se combinan con una tipografía Serif elegante para los títulos (artesanía) y una Sans-Serif moderna para los datos técnicos (eficiencia). La estética es acogedora pero técnica, priorizando la previsibilidad del entorno (disponibilidad de sitios/enchufes) y la facilidad logística (parking de bicis/pedidos rápidos).
+Patrones de UI utilizados
+
+Estos son los patrones que hemos decidido implementar para la fase de prototipado:
+
+    Header fijo con navegación clara: Logotipo central que actúa como botón de inicio. El menú se adapta según el estado del usuario: si no está registrado, muestra "Login/Registro"; si lo está, muestra su perfil con sus "Puntos Grano" (fidelización).
+
+    Hero con propuesta de valor + CTA: Imagen visual de alta calidad (café artesanal o entorno del local) con el eslogan "Tu refugio sensorial. Tu energía en ruta" y una llamada a la acción principal: "Ver Aforo en Tiempo Real".
+
+    Status Indicator (Semáforo de ocupación): Patrón visual crítico para Luis y Laura. Un indicador dinámico (Verde/Ámbar/Rojo) que informa sobre la disponibilidad de mesas y enchufes antes de desplazarse al local.
+
+    Cards modulares de Servicios: Tarjetas reutilizables y responsivas para categorizar la oferta: "Zona de Silencio", "Parking Seguro de Bicis", "Córner de Café Filtrado" y "Fibra Óptica 1Gb".
+
+    Wizards (Pedido rápido): Proceso de pedido para llevar (Take away) dividido en pasos secuenciales: 1. Selección de grano/bebida, 2. Personalización (leche/extras) y 3. Hora de recogida. Evita la sobrecarga cognitiva del deportista que tiene poco tiempo.
+
+    Article List (Blog/Eventos): Listado vertical en la sección "Comunidad" para anunciar catas de café, quedadas de running o talleres de barista, con miniaturas y etiquetas de categoría.
+
+    Item details + actions (Ficha de producto): Muestra información técnica detallada del café (origen, altura, notas de cata y nivel de cafeína para rendimiento deportivo). Incluye botones para "Añadir a favoritos" o "Pedir ahora".
+
+    Form Input (Reserva de mesa/evento): Formulario optimizado para reservar espacio en la zona de estudio o apuntarse a un evento deportivo, con validación en tiempo real y selector de fecha tipo calendario.
+
+    About (Nuestra Misión): Sección detallada sobre el origen de los granos, la conexión con Granada y la historia de los fundadores, reforzando la confianza y la cercanía.
+
+    Diseño Responsive: Optimización total para móvil con Menú inferior (Tab Bar) para acceso rápido a "Inicio", "Pedido", "Mapa/Aforo" y "Perfil", facilitando el uso con una sola mano para el ciclista o corredor.
+
+Estilo de lenguaje
+
+Utilizamos un tono profesional, inspirador y directo. Queremos que el usuario sienta que entendemos su necesidad de rendimiento (deporte/estudio) y su deseo de calidad.
+
+    Voz de marca: Hablamos de "nosotros" como anfitriones y del usuario como parte de la comunidad: "Preparamos tu sitio", "Tu energía te espera".
+
+    Claridad técnica: Evitamos el exceso de adjetivos innecesarios. Si el café es para un deportista, destacamos su "Efecto ergogénico" o "Cafeína natural"; si es para Luis, destacamos el "Ambiente Cero Distracciones".
+
+    Llamados a la acción (CTAs): Son proactivos y útiles: "Asegura tu mesa", "Recárgate", "Únete a la ruta".
+
+    Nuestro eslogan: "Tradición en cada grano, energía para tu día."
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
