@@ -257,45 +257,38 @@ Esta fase de ideación y reframing ha sido clave para evolucionar el concepto de
 
 #### Patrón de diseño
 
-Nuestro patrón de diseño está centrado en transmitir calidad premium, enfoque (concentración) y vitalidad. Aplicamos un enfoque minimalista y equilibrado, con una jerarquía visual clara que permite una navegación rápida tanto para el usuario que busca un lugar de estudio silencioso como para el deportista en ruta.
+El patrón de diseño de Graná en Grano se fundamenta en tres pilares: calidad premium, enfoque y vitalidad. Buscamos trasladar la experiencia física del local al entorno digital mediante una jerarquía visual clara y un enfoque minimalista que satisfaga tanto la necesidad de previsibilidad del estudiante (Luis) como la agilidad logística del deportista (Matías).
 
-Los tonos tierra y dorados se combinan con una tipografía Serif elegante para los títulos (artesanía) y una Sans-Serif moderna para los datos técnicos (eficiencia). La estética es acogedora pero técnica, priorizando la previsibilidad del entorno (disponibilidad de sitios/enchufes) y la facilidad logística (parking de bicis/pedidos rápidos).
+ - Paleta de colores: Utilizamos una base de tonos tierra (marrón café) y verdes profundos que evocan el origen del grano y la sostenibilidad, acentuados con tonos crema y dorados para transmitir elegancia y calidez sensorial.
+
+ - Tipografía: Combinamos una fuente Serif sofisticada para títulos, reforzando el carácter artesanal y tradicional, con una Sans-Serif moderna y limpia para el cuerpo de texto, garantizando legibilidad y eficiencia técnica.
+
+ - Iconografía e Imágenes: La estética visual prioriza imágenes de alta calidad enfocadas en el producto (arte latte, grano) y en la arquitectura del local, proporcionando al usuario (como Laura) una sensación previa del "refugio sensorial" que ofrece la cafetería.
 
 #### Patrones de UI utilizados
+Para el diseño de la interfaz, se han seleccionado componentes que optimizan la carga cognitiva y facilitan la interacción en movilidad:
 
-Para la fase de prototipado, hemos seleccionado los siguientes patrones:
+ * Header fijo con navegación adaptativa: Logotipo central que actúa como ancla de inicio. El menú cambia dinámicamente según el estado del usuario, mostrando acceso al perfil y "Puntos Grano" para clientes registrados.
 
-Header fijo con navegación clara: Logotipo central como botón de inicio. El menú es adaptativo: muestra Login/Registro para invitados o el perfil con Puntos Grano para usuarios registrados.
+ * Hero con propuesta de valor + CTA Crítico: Imagen de impacto con el eslogan principal y una llamada a la acción prioritaria: "Ver Aforo en Tiempo Real", diseñada para usuarios que buscan asegurar su sitio antes de desplazarse.
 
-Hero con propuesta de valor + CTA: Imagen de alta calidad con el eslogan principal y una llamada a la acción crítica: Ver Aforo en Tiempo Real.
+ * Status Indicator (Semáforo de ocupación): Sistema de estados (Verde/Ámbar/Rojo) que indica la disponibilidad de mesas y enchufes, resolviendo la incertidumbre logística de los usuarios que trabajan en remoto.
 
-Status Indicator (Semáforo de ocupación): Indicador dinámico (Verde/Ámbar/Rojo) sobre la disponibilidad de mesas y enchufes, vital para la planificación de los usuarios.
+ * Cards modulares de Servicios: Tarjetas responsivas que categorizan la oferta diferencial: Zona de Silencio, Bici-Parking vigilado y conectividad de Fibra Óptica.
 
-Cards modulares de Servicios: Tarjetas responsivas para categorizar la oferta (Zona de Silencio, Parking de Bicis, Fibra Óptica, etc.).
+ * Wizards (Pedido rápido): Proceso secuencial para pedidos take away que minimiza los pasos de selección, personalización y pago, ideal para el público activo.
 
-Wizards (Pedido rápido): Proceso de pedido Take away en pasos secuenciales (Selección, Personalización, Recogida) para minimizar la carga cognitiva.
+ * Item details + actions (Ficha técnica): Fichas detalladas del café que incluyen notas de cata, origen y efectos (como el "efecto ergogénico" para deportistas) con acciones directas de compra.
 
-Article List (Blog/Eventos): Listado vertical para la sección de comunidad (catas, running, talleres) con miniaturas y etiquetas.
+ * Diseño Responsive (Mobile First): Optimización mediante una Tab Bar inferior, permitiendo la navegación con el pulgar para usuarios que consultan la web mientras están en ruta o cargados con material de estudio.
 
-Item details + actions (Ficha de producto): Información técnica detallada del café (notas de cata, origen y nivel de cafeína) con acciones directas de compra o favoritos.
+#### Estilo de lenguaje  
 
-Form Input (Reserva): Formularios optimizados con validación en tiempo real y selectores de fecha tipo calendario.
-
-About (Nuestra Misión): Contenido detallado sobre el origen del grano y la historia de la marca para generar confianza.
-
-Diseño Responsive: Optimización para móvil mediante una Tab Bar inferior que facilita el uso con una sola mano durante desplazamientos activos.  
-
-#### Estilo de lenguaje
-
-El tono es profesional, inspirador y directo, enfocado en el rendimiento y la calidad.
-
-Voz de marca: Cercana y comunitaria ("Preparamos tu sitio", "Tu energía te espera").
-
-Claridad técnica: Uso de términos específicos pero útiles ("Efecto ergogénico", "Ambiente Cero Distracciones") evitando el relleno innecesario.
-
-Llamados a la acción (CTAs): Proactivos y orientados al beneficio ("Asegura tu mesa", "Recárgate", "Únete a la ruta").
-
-Eslogan: <br>"Tradición en cada grano, energía para tu día."</br>
+ * El tono de Graná en Grano es profesional, inspirador y directo. Buscamos empoderar al usuario mediante la claridad técnica y la cercanía comunitaria. 
+ * Voz de marca: Cercana y orientada al servicio. Hablamos en plural inclusivo ("Preparamos tu rincón de paz") para generar confianza y sentido de pertenencia.
+ * Claridad técnica: Evitamos el relleno. Usamos terminología específica de especialidad (notas de tueste, trazabilidad) para educar al consumidor sin perder la brevedad.
+ * CTAs Proactivos: Botones orientados al beneficio inmediato: "Asegura tu mesa", "Recárgate", o "Únete a la ruta".
+ * Eslogan: <br>"Tradición en cada grano, energía para tu día"<br>
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
