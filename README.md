@@ -288,7 +288,8 @@ Para el diseño de la interfaz, se han seleccionado componentes que optimizan la
  * Voz de marca: Cercana y orientada al servicio. Hablamos en plural inclusivo ("Preparamos tu rincón de paz") para generar confianza y sentido de pertenencia.
  * Claridad técnica: Evitamos el relleno. Usamos terminología específica de especialidad (notas de tueste, trazabilidad) para educar al consumidor sin perder la brevedad.
  * CTAs Proactivos: Botones orientados al beneficio inmediato: "Asegura tu mesa", "Recárgate", o "Únete a la ruta".
- * Eslogan: <br>"Tradición en cada grano, energía para tu día"<br>
+ * Eslogan: **"Tradición en cada grano, energía para tu día"**
+
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
