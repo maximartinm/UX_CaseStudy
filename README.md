@@ -255,15 +255,13 @@ Esta fase de ideación y reframing ha sido clave para evolucionar el concepto de
 ![Método UX](img/guidelines.png) 
 ----
 
-3.c Guidelines
-Aquí tienes el texto limpio, sin negritas ni asteriscos, listo para copiar y pegar en tu README.md:
-3.c Guidelines
-Patrón de diseño
+#### Patrón de diseño
 
 Nuestro patrón de diseño está centrado en transmitir calidad premium, enfoque (concentración) y vitalidad. Aplicamos un enfoque minimalista y equilibrado, con una jerarquía visual clara que permite una navegación rápida tanto para el usuario que busca un lugar de estudio silencioso como para el deportista en ruta.
 
 Los tonos tierra y dorados se combinan con una tipografía Serif elegante para los títulos (artesanía) y una Sans-Serif moderna para los datos técnicos (eficiencia). La estética es acogedora pero técnica, priorizando la previsibilidad del entorno (disponibilidad de sitios/enchufes) y la facilidad logística (parking de bicis/pedidos rápidos).
-Patrones de UI utilizados
+
+#### Patrones de UI utilizados
 
 Para la fase de prototipado, hemos seleccionado los siguientes patrones:
 
@@ -285,8 +283,9 @@ Form Input (Reserva): Formularios optimizados con validación en tiempo real y s
 
 About (Nuestra Misión): Contenido detallado sobre el origen del grano y la historia de la marca para generar confianza.
 
-Diseño Responsive: Optimización para móvil mediante una Tab Bar inferior que facilita el uso con una sola mano durante desplazamientos activos.
-Estilo de lenguaje
+Diseño Responsive: Optimización para móvil mediante una Tab Bar inferior que facilita el uso con una sola mano durante desplazamientos activos.  
+
+#### Estilo de lenguaje
 
 El tono es profesional, inspirador y directo, enfocado en el rendimiento y la calidad.
 
@@ -296,7 +295,7 @@ Claridad técnica: Uso de términos específicos pero útiles ("Efecto ergogéni
 
 Llamados a la acción (CTAs): Proactivos y orientados al beneficio ("Asegura tu mesa", "Recárgate", "Únete a la ruta").
 
-Eslogan: "Tradición en cada grano, energía para tu día."
+Eslogan: <br>"Tradición en cada grano, energía para tu día."</br>
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
