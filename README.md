@@ -292,6 +292,9 @@ Para el diseño de la interfaz, se han seleccionado componentes que optimizan la
  * CTAs Proactivos: Botones orientados al beneficio inmediato: "Asegura tu mesa", "Recárgate", o "Únete a la ruta".
  * Eslogan: **"Tradición en cada grano, energía para tu día"**
 
+GUIDELINES : 
+![Guidelines](img/Guidelines.png) 
+
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
