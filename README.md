@@ -301,6 +301,18 @@ GUIDELINES :
 ----
 
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+>>>
+HOME PAGE
+![Inicio-Home](img/Inicio-Home.png) 
+
+PANTALLA COMPRA
+![Pantalla Compra](img/Pantalla-Compra.png) 
+
+TIENDA
+![Tienda](img/Tienda.png) 
+
+ESPACIOS
+![Espacios](img/Espacios.png) 
 
 
 <br>
