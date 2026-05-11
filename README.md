@@ -316,7 +316,8 @@ ESPACIOS
 
 
 VIDEO
-![MockUpVideo](img/MockUp-Video.mp4) 
+
+![MockUpVideo](img/mockUp-video.mp4) 
 
 
 
