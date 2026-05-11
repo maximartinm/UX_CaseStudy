@@ -315,6 +315,11 @@ ESPACIOS
 ![Espacios](img/Espacios.png) 
 
 
+VIDEO
+![MockUpVideo](img/MockUp-Video.mp4) 
+
+
+
 <br>
 
 ## Paso 4. Pruebas de Evaluación 
