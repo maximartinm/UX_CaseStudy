@@ -319,8 +319,8 @@ GUIDELINES :
 
 ![MockUpVideo](https://github.com/user-attachments/assets/bc6f66d3-4827-4af2-93ce-3b061b87363b)
 
-
-
+**Figma: Graná en Grano**
+![Enlace-Figma]([img/Inicio-Home.png](https://www.figma.com/design/DlaIN69uGoao094M4bazr5/UI-Kit---Gran%C3%A1-en-Grano?node-id=2-7&t=wYMXB6be8SmdRXuI-1)) 
 
 <br>
 
