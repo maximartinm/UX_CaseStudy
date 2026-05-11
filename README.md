@@ -214,7 +214,7 @@ Para **Graná en Grano**, hemos diseñado una arquitectura de información que f
 Presentamos el diseño del layout para Web/movil (organización y simulación):  
 
 #### HOMEPAGE  
-![HomePage](./img/HomePage.jpg)
+![HomePage](./img/HomePage2.jpg)
  
 #### NUESTRO ESPACIO  
 ![NuestroEspacio](./img/NuestroEspacio.jpg)
