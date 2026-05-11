@@ -40,6 +40,8 @@ Miembros y nombre del equipo:
  * :bust_in_silhouette: Jose Miguel Estella Román    :octocat: https://github.com/jomesro
  * :bust_in_silhouette: Máximo Martín Moreno         :octocat: https://github.com/maximartinm
 
+ * Nuestra WEB : https://side-pro-91637215.figma.site
+
 ----- 
 
 <br>
@@ -324,7 +326,7 @@ GUIDELINES :
 
 <br>
 
-## Paso 4. Pruebas de Evaluación 
+## Paso 4. Pruebas de Evaluación Nuestra WEB : https://side-pro-91637215.figma.site
 
 ### 4.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
@@ -396,7 +398,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ## Paso 5. Exportación y Documentación 
 
 
-### 5.a Exportación a HTML/React
+### 5.a Exportación a HTML/React : Nuestra web : https://side-pro-91637215.figma.site
 ![Método UX](img/usabilityReview.png) 
 ----
 
