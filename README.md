@@ -304,24 +304,28 @@ GUIDELINES :
 ![Método UX](img/mockup.png) 
 ----
 
-**HOME PAGE**
+#### HOME PAGE  
+
 ![Inicio-Home](img/Inicio-Home.png) 
 
-**PANTALLA COMPRA**
+#### PANTALLA COMPRA  
+
 ![Pantalla Compra](img/Pantalla-Compra.png) 
 
-**TIENDA**
+#### TIENDA  
+
 ![Tienda](img/Pantalla-productos.png) 
 
-**ESPACIOS**
+#### ESPACIOS  
+
 ![Espacios](img/Espacios.png) 
 
-
-**VIDEO MOCKUP**
+#### VIDEO MOCKUP
 
 ![MockUpVideo](https://github.com/user-attachments/assets/bc6f66d3-4827-4af2-93ce-3b061b87363b)
 
-**Figma: Graná en Grano**
+#### Figma: Graná en Grano  
+
 ![Enlace-Figma](https://www.figma.com/design/DlaIN69uGoao094M4bazr5/UI-Kit---Gran%C3%A1-en-Grano?node-id=2-7&t=wYMXB6be8SmdRXuI-1)
 ![Nuestra Web](https://side-pro-91637215.figma.site)
 
