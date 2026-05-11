@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/bc6f66d3-4827-4af2-93ce-3b061b87363b
+
 # DIU26
 Prácticas Diseño Interfaces de Usuario (Tema: Cafetería y experiencia Barista ) 
 
