@@ -311,7 +311,7 @@ GUIDELINES :
 ![Pantalla Compra](img/Pantalla-Compra.png) 
 
 **TIENDA**
-![Tienda](img/Tienda.png) 
+![Tienda](img/Pantalla-productos.png) 
 
 **ESPACIOS**
 ![Espacios](img/Espacios.png) 
