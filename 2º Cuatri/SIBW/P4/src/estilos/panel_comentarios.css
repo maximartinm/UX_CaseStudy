@@ -1,0 +1,201 @@
+/* =========================================
+   PANEL GLOBAL DE COMENTARIOS
+   ========================================= */
+
+#panel_gestion_comentarios {
+    /* CAMBIO CLAVE: Usa el espacio sobrante del flex sin romper el flujo a la derecha */
+    flex: 1; 
+    max-width: 1000px;
+    box-sizing: border-box; 
+    
+    /* MÁRGENES: Alineados perfectamente con el de noticias */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 30px; /* Evita que choque con el borde derecho del fondo */
+    
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background: #ccc;
+    border-radius: 8px; /* Lo dejamos activo para que suavice las esquinas dentro del fondo */
+}
+
+.titulo-perfil {
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    color: #2c3e50;
+}
+
+/* --- Buscador --- */
+.caja-buscador {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    border: 1px solid #e9ecef;
+}
+
+.caja-buscador form {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.caja-buscador input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+.caja-buscador button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.2s;
+}
+
+.caja-buscador button:hover {
+    background-color: #0056b3;
+}
+
+/* --- Lista de Comentarios --- */
+.comentario_item {
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease;
+    
+    /* Evita problemas de desbordamiento con textos o enlaces largos */
+    word-wrap: break-word;
+    overflow: hidden; 
+}
+
+.comentario_item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.comentario_item p {
+    margin: 0 0 10px 0;
+    line-height: 1.5;
+}
+
+.controles-moderacion {
+    display: flex;
+    gap: 10px;
+    float: right; /* Manda los botones a la derecha */
+}
+
+/* --- Botones --- */
+.btn_borrar_comentario,
+.btn_editar_comentario {
+    display: inline-block;
+    padding: 6px 12px;
+    font-size: 0.85rem;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.btn_editar_comentario {
+    background-color: #28a745;
+    color: white;
+}
+
+.btn_editar_comentario:hover {
+    background-color: #218838;
+}
+
+.btn_borrar_comentario {
+    background-color: #dc3545;
+    color: white;
+}
+
+.btn_borrar_comentario:hover {
+    background-color: #c82333;
+}
+
+/* --- Clases extra para limpieza del HTML --- */
+
+.caja-buscador input#buscador {
+    width: 100%;
+    padding: 12px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    box-sizing: border-box; 
+}
+
+.meta-comentario {
+    margin-bottom: 5px;
+}
+
+.texto-comentario {
+    margin-top: 15px;
+    color: #333;
+}
+
+.aviso-moderador {
+    color: #0056b3;
+    font-style: italic;
+}
+
+
+/* =========================================
+   REGLAS RESPONSIVE PARA COMENTARIOS (@media)
+   ========================================= */
+
+/* Para tablets o pantallas medianas */
+@media (max-width: 789px) {
+    #panel_gestion_comentarios {
+        margin-right: 15px; /* Estrechamos un poco el colchón derecho */
+        padding: 15px;
+    }
+
+    .caja-buscador form {
+        flex-direction: column; /* El input y el botón se apilan */
+        align-items: stretch;
+    }
+
+    .caja-buscador button {
+        width: 100%; /* Botón de buscar a lo ancho */
+    }
+}
+
+/* Para móviles (Cuando el menú lateral salta arriba o abajo) */
+@media (max-width: 500px) {
+    #panel_gestion_comentarios {
+        margin-left: 10px;
+        margin-right: 10px;
+        width: auto; /* Evita que flex box rompa los laterales */
+    }
+
+    .comentario_item {
+        padding: 15px;
+        display: flex;
+        flex-direction: column; /* Obligamos a que quepa todo apilado */
+    }
+
+    /* En móvil, los botones de moderar quedan mejor abajo del comentario */
+    .controles-moderacion {
+        float: none; 
+        align-self: flex-start;
+        margin-top: 10px;
+        width: 100%;
+    }
+}

@@ -1,0 +1,121 @@
+{% extends "base.html" %}
+
+{% block titulo %}{{ noticia.titulo }} - Lucerna Informa{% endblock %}
+
+{# Incluimos el script JS solo en esta página #}
+{% block scripts %}
+    <script src="js/script.js?v={{ "now"|date("U") }}"></script>
+    <script src="js/global.js?v={{ "now"|date("U") }}"></script>
+{% endblock %}
+
+{% block contenido %}
+<main id="noticia_completa">
+    <div class="titulo_noticia">
+        <h2>{{ noticia.titulo }}</h2>
+         <ul class="redes_sociales">
+                <li>
+                    <a href="https://www.instagram.com/">
+                    <img height=30 width="30" src="img/Instagram.png" alt="Logo_instagram">
+                    </a>
+                </li> 
+
+                <li>
+                    <a href="https://www.facebook.com/?locale=es_ES">
+                    <img height=30 width="30" src="img/facebook.png" alt="Logo_facebook">
+                    </a>
+                </li> 
+
+                <li>
+                    <a href="https://x.com/?lang=es">
+                    <img height=30 width="30" src="img/twitter.png" alt="Logo_twitter">
+                    </a>
+                </li> 
+
+                <li>
+                    <a href="noticia_imprimir.php?id={{ noticia.id }}">
+                    <img height=30 width="30" src="img/imprimir.png" alt="Logo_imprimir">
+                    </a>
+                </li> 
+            </ul>
+        </div>
+        {% if sesion.rol == 'gestor' or sesion.rol == 'superusuario'%}
+        <div class="controles-gestor">
+            {#  Botón eliminar con su data-id #}
+             <button class="btn_noticia" id="btn_borrar_noticia">eliminar </button>
+                    
+            {#  Botón editar convertido en enlace apuntando al PHP #}
+            <a href="editor_noticia.php?id={{ noticia.id }}&origen=noticia" class="btn_editar_noticia">editar</a>
+        </div>
+        {% endif %}
+
+        <div class="datos_noticia">
+            <p><strong>Fecha:</strong> {{ noticia.fecha }}</p>
+            <p><strong>Tipo:</strong> {{ noticia.tipo }}</p>
+            <p><strong>Concejalía:</strong> {{ noticia.concejalia }}</p>
+            <p><strong>Lugar:</strong> {{ noticia.lugar }}</p>
+            <p><strong>Responsable:</strong> {{ noticia.personas }}</p>
+        </div>
+        
+        {# El texto de la noticia (usamos el filtro |raw para que interprete los <br>) #}
+        <div class="texto_noticia">
+            {{ noticia.descripcion | raw }}
+        </div>
+    </div>
+
+    {# GALERÍA DE IMÁGENES: Aquí recorremos todas las fotos de la noticia #}
+    <div class="imagen_noticia">
+        {% for foto in imagenes %}
+            <img height="200" width="200" src="{{ foto.src }}" alt="Imagen de la noticia">
+        {% endfor %}
+    </div>
+</main>
+
+<div id="sensor_panel_comentarios"></div>
+
+<aside id="panel_comentarios">
+    <div class="panel_comentarios_encabezado">
+        <h2 id="titulo_foro">Comentarios</h2>
+        <button id="boton_cerrar_foro">Cerrar</button>
+    </div>
+    {% if sesion%}    
+    <button id="boton_añadir_comentario">Añadir comentario</button>
+    
+    
+    <form id="formulario_comentario" action="#" method="POST">
+        {# Campo oculto para saber el ID de la noticia #}
+        <input type="hidden" name="id_noticia" value="{{ noticia.id }}">
+    
+        <input id="nombre_form" name="nombre" type="text" placeholder="Nombre" required>
+        <input id="correo_form" name="email" type="email" placeholder="Email" required>
+        <textarea id="comentario_form" name="texto" placeholder="Comentario" required></textarea>
+        <button id="boton_enviar_form" type="submit">Enviar</button>
+        <button id="boton_cancelar_form" type="reset">Cancelar</button>
+    </form>
+    {% endif %}
+    
+
+
+        <div id="contenedor_comentarios">
+        {% for com in comentarios %}
+            <div class="comentario_item">
+                {% if sesion.rol == 'moderador' or sesion.rol == 'superusuario'%}
+                <div class="controles-moderacion">
+                    {#  Botón eliminar con su data-id #}
+                    <button class="btn_borrar_comentario" data-id="{{ com.id }}">eliminar </button>
+                    
+                    {#  Botón editar convertido en enlace apuntando al PHP #}
+                    <a href="editor_comentarios.php?id={{ com.id }}&origen=noticia&id_noticia={{ noticia.id }}" class="btn_editar_comentario">editar</a>
+                </div>
+                {% endif %}
+                {% if com.editado_por_moderador %}
+                    <small class="aviso-moderador">Mensaje editado por el moderador</small>
+                {% endif %}
+                <p><strong>{{ com.nombre }}</strong> <small>({{ com.fecha }})</small></p>
+                <p>{{ com.texto }}</p>
+            </div>
+        {% else %}
+            <p id="sin_comentarios">No hay comentarios todavía.</p>
+        {% endfor %}
+    </div>
+</aside>
+{% endblock %}

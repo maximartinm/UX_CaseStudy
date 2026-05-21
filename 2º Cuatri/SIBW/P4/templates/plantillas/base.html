@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width initial-scale=1.0">
+    <title>{% block titulo %}Lucerna Noticias{% endblock %}</title>
+    
+    {% block stylesheets %}
+    <link rel="stylesheet" href="estilos/estilos_noticias.css?v={{ "now"|date("U") }}">
+    {% endblock %}
+    
+    <link rel="icon" type="image/x-icon" href="img/luzerner_zeitung_sin_fondo.png">
+    {% block scripts %}
+        <script src="js/global.js?v={{ "now"|date("U") }}"></script>
+    {% endblock %}
+</head>
+<body>
+    <header id="cabecera_principal">
+        <div class="logo">
+            <a href="index.php">
+                <img width="100" height="80" src="img/luzerner_zeitung_sin_fondo.png" alt="Logo">
+            </a>
+        </div>
+        <div class="titulo"><h1>Lucerna Informa</h1></div>
+        <nav id="menu_cabecera"> 
+            <ul>
+                <li class="saludo_menu">
+                    {% if sesion %}
+                        <span>Hola, <strong>{{ sesion.nombre }}</strong></span>
+                        <span class="nombre_rol">{{ sesion.rol }}</span>
+                    {% else %}
+                        <span>Hola, <strong>Anónimo</strong></span>
+                    {% endif %}
+                </li>
+
+                <li>
+                    
+                    {% if sesion %}
+                        <a href="logout.php" id="boton_log_out" class="boton-salir">Log-out</a>
+                    {% else %}
+                        <button id="boton_log_in" type="button">Log-in </button>
+                    
+                    <div id="formulario_log_in" class="oculto"> 
+                        <div class="contenido-modal">
+                        
+                            <div class="pestanas-panel">
+                                <button type="button" id="tab_login" class="tab-activa">Iniciar Sesión</button>
+                                <button type="button" id="tab_registro" class="tab-inactiva">Registrarse</button>
+                            </div>
+
+                            <form id="form_solo_login" class="form-auth form-visible">
+                                <input type="email" id="correo_login" placeholder="Tu Correo" required>
+                                <input type="password" id="contrasena_login" placeholder="Tu Contraseña" required>
+                                <button type="submit" id="boton_enviar_login">Entrar</button>
+                            </form>
+
+                            <form id="form_solo_registro" class="form-auth form-oculto">
+                                <input type="text" id="nombre_registro" placeholder="Nombre completo" required>
+                                <input type="email" id="correo_registro" placeholder="Tu Correo" required>
+                                <input type="password" id="contrasena_registro" placeholder="Crea una contraseña" required>
+                                <button type="submit" id="boton_enviar_registro">Crear Cuenta</button>
+                            </form>
+
+                            <button type="button" id="boton_cancelar_form">Cancelar / Cerrar</button>
+
+                        </div>
+                    </div>
+                    {% endif %}
+                </li>
+                <li><a href="https://www.myswitzerland.com/es-es/destinos/lucerna/">Turismo</a></li>
+                <li><a href="https://www.google.com/maps?client=ubuntu-sn&hs=gzB&sca_esv=9be909eea5a29677&channel=fs&sxsrf=ANbL-n4po37VhugHOh3Wo0LW5JzQ2CrY9g:1773505037375&biw=925&bih=939&uact=5&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWVzdGFjaW9uIHRyZW4gbHVjZXJuYTIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYR0iSS1D5CVjCSXAAeAKQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAg2YAwCIBgGQBgiSBwExoAcAsgcAuAcAwgcDMi0xyAcHgAgA&um=1&ie=UTF-8&fb=1&gl=es&sa=X&geocode=KSONXomY-49HMYuL8FumywFI&daddr=6003+Lucerne,+Suiza"> Tren Lucerna</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="cuerpo_pagina">
+        {% if sesion %}
+        <aside id="menu_lateral">
+            <ul>
+                <li><a href="mis_datos.php"><button>Mis datos</button></a></li>
+                
+                {% if sesion.rol == 'moderador' or sesion.rol == 'superusuario' %}
+                    <li><a href="panel_comentarios.php"><button>Gestión de Comentarios</button></a></li>
+                {% endif %}
+                
+                {% if sesion.rol == 'gestor' or sesion.rol == 'superusuario' %}
+                    <li><a href="panel_noticias.php"><button>Gestión de Noticias</button></a></li>
+                {% endif %}
+                
+                {% if sesion.rol == 'superusuario' %}
+                    <li><a href="panel_usuarios.php"><button>Gestión de Usuarios</button></a></li>
+                {% endif %}
+            </ul>
+        </aside>
+        {% endif %}
+
+        {# Este bloque lo rellenará cada página hija #}
+        {% block contenido %}{% endblock %}
+    </section>
+
+    <footer id="pie_pagina">
+        <div class="enlaces_pie">
+            <p>Jose Miguel Estella Román</p>
+            <p>Web ayuntamiento</p>
+            <p>Aviso legal</p>
+        </div>
+        <div class="copyright">
+            <p>© 2026 Copyright - SIBW</p>
+        </div>
+    </footer>
+</body>
+</html>

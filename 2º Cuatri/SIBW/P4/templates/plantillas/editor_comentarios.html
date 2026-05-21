@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block stylesheets %}
+    {{ parent() }}
+    <link rel="stylesheet" href="estilos/editor_comentarios.css?v={{ "now"|date("U") }}">
+{% endblock %}
+
+{% block titulo %}Moderar Comentario - Lucerna Informa{% endblock %}
+
+{% block scripts %}
+    <script src="js/global.js?v={{ "now"|date("U") }}"></script>
+{% endblock %}
+
+{% block contenido %}
+<main id="editor_comentarios_page">
+    <h2 class="titulo-perfil">Moderar Comentario</h2>
+    
+    <div class="layout-dos-columnas">
+        
+        {# Columna 1: Información del comentario original #}
+        <div class="columna-info">
+            <h3>Datos Originales</h3>
+            <div class="tarjeta-datos">
+                <p><strong>Autor:</strong> <span>{{ comentario.nombre }}</span></p>
+                <p><strong>Email:</strong> <span>{{ comentario.email }}</span></p>
+                <p><strong>Fecha:</strong> <span>{{ comentario.fecha }}</span></p>
+                <p><strong>Pertenece a Noticia:</strong> <span>#{{ comentario.id_noticia }}</span></p>
+            </div>
+        </div>
+
+        {# Columna 2: El formulario de edición #}
+        <div class="columna-editar">
+            <h3>Modificar Texto</h3>
+            <form id="formulario_actualizar_comentario" action="actualizar_comentario.php" method="POST">
+                <input type="hidden" name="id" value="{{ comentario.id }}">
+                
+                {# NUEVOS CAMPOS OCULTOS PARA QUE ACTUALIZAR_COMENTARIO SEPA DONDE VOLVER #}
+                <input type="hidden" name="origen" value="{{ origen }}">
+                <input type="hidden" name="id_noticia" value="{{ id_noticia }}">
+                
+                <label for="edit_texto_comentario">Contenido del comentario:</label>
+                <textarea id="edit_texto_comentario" name="texto" rows="8" required>{{ comentario.texto }}</textarea>
+
+                <div>
+                    <button type="submit" id="boton_guardar_edicion">Guardar Cambios</button>
+                    
+                    {# MODIFICAMOS EL CANCELAR PARA QUE VUELVA A SU SITIO #}
+                    {% if origen == 'noticia' %}
+                        <a href="noticia.php?id={{ id_noticia }}" class="boton-cancelar">Cancelar</a>
+                    {% else %}
+                        <a href="panel_comentarios.php" class="boton-cancelar">Cancelar</a>
+                    {% endif %}
+                </div>
+            </form>
+        </div>
+
+    </div>
+</main>
+{% endblock %}

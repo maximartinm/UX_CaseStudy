@@ -1,0 +1,71 @@
+*{
+    box-sizing:border-box;
+}
+
+
+/*Pongo el fondo blanco*/
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif; /*Fuente clara para papel*/
+    padding: 40px;
+    font-family: 'Georgia', serif;
+}
+
+/*Ocultar elementos no necesarios en la impresión*/
+#menu_cabecera, #menu_lateral, .redes_sociales {
+    display: none;
+}
+
+* img {
+    filter: grayscale(100%); /* Convierte el logo a escala de grises para impresión */
+    max-width: 100%;
+    height: auto;
+}
+
+/*Cabecera*/
+#cabecera_principal {
+    display: grid;
+    grid-template-columns: 1fr; /* Una columna que ocupa todo el ancho */
+    gap: 20px;
+    justify-items:center;
+}
+
+.titulo_noticia{
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+
+}
+
+/*NOTICIA*/
+.imagen_noticia{
+    display: flex;
+    flex-wrap: wrap; /* Permite que las imágenes se ajusten a la siguiente línea si no caben en una sola fila */
+    gap: 40px;
+    padding: 20px;
+    justify-content: center; /* Centra las imágenes horizontalmente */
+    align-items: stretch;
+}
+.imagen_noticia img{
+    aspect-ratio: 1/1; /*Mantiene las fotos con la misma forma*/
+    object-fit: cover;
+}
+
+
+
+
+/*PIE DE PAGINA*/
+
+#pie_pagina{
+    background: grey;
+    display:grid;
+    grid-template-rows: 1fr 1fr;
+    gap: 10px;
+    justify-items: center; 
+}
+
+.enlaces_pie{
+    border-bottom: 2px solid black;
+    display: flex;
+    gap: 35px;
+}

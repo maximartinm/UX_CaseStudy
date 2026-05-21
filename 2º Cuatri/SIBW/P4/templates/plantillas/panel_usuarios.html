@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+
+{% block stylesheets %}
+    {{ parent() }}
+    <link rel="stylesheet" href="estilos/panel_usuarios.css?v={{ "now"|date("U") }}">
+{% endblock %}
+
+{% block titulo %}Gestión de Usuarios - Lucerna Informa{% endblock %}
+
+{% block scripts %}
+    <script src="js/global.js?v={{ "now"|date("U") }}"></script>
+{% endblock %}
+
+{% block contenido %}
+<main id="panel_gestion_usuarios">
+    <div class="cabecera-panel">
+        <h2 class="titulo-perfil">Control Global de Usuarios y Permisos</h2>
+    </div>
+
+    {# LISTADO DE USUARIOS #}
+    <div id="contenedor_usuarios">
+        {% for usu in usuarios %}
+            <div class="usuario_item tarj-rol-{{ usu.rol }}">
+                
+                <div class="controles-gestor">
+                    {# ¡Perfecto! Solo los usuarios con rol 'registrado' se pueden borrar #}
+                    {% if usu.rol == 'registrado' %}
+                        <button class="btn_borrar_usuario" data-id="{{ usu.id }}">🗑️ Eliminar Usuario</button>
+                    {% endif %}
+                    
+                    {# Selector dinámico de Roles #}
+                    <div class="selector-rol-wrapper">
+                        <label for="rol_{{ usu.id }}"><strong>Permisos:</strong></label>
+                        <select class="select_cambiar_rol" data-id="{{ usu.id }}" id="rol_{{ usu.id }}">
+                            {# CORRECCIÓN CRUCIAL: El value debe ser 'registrado' para tu Base de Datos #}
+                            <option value="registrado" {% if usu.rol == 'registrado' %}selected{% endif %}>User estándar</option>
+                            <option value="moderador" {% if usu.rol == 'moderador' %}selected{% endif %}>Moderador Foro</option>
+                            <option value="gestor" {% if usu.rol == 'gestor' %}selected{% endif %}>Gestor Noticias</option>
+                            <option value="superusuario" {% if usu.rol == 'superusuario' %}selected{% endif %}>🔑 Superusuario</option>
+                        </select>
+                    </div>
+                </div>
+
+                <h3 class="titulo-usuario-panel">{{ usu.nombre }}</h3>
+                <p class="meta-usuario">
+                    <strong>ID: #{{ usu.id }}</strong> | ✉️ Correo: <span class="email-subrayado">{{ usu.email }}</span>
+                </p>
+                
+                <p class="roles-etiqueta-zona">
+                    {% if usu.rol == 'superusuario' %}
+                        <span class="etiqueta-rol rol-critico">Superusuario</span>
+                    {% elseif usu.rol == 'gestor' %}
+                        <span class="etiqueta-rol rol-medio">Gestor</span>
+                    {% elseif usu.rol == 'moderador' %}
+                        <span class="etiqueta-rol rol-bajo">Moderador</span>
+                    {% else %}
+                        <span class="etiqueta-rol rol-base">Usuario</span>
+                    {% endif %}
+                </p>
+            </div>
+        {% else %}
+            <p>No se encontraron usuarios registrados en el sistema.</p>
+        {% endfor %}
+    </div>
+</main>
+{% endblock %}

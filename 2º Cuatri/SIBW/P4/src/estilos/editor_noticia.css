@@ -1,0 +1,143 @@
+/* =========================================
+   EDITOR DE NOTICIAS Y FORMULARIOS
+   ========================================= */
+
+
+#editor_noticia_main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+#editor_noticia_main h2 {
+    margin-top: 0;
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #f1f3f5;
+    color: #212529;
+}
+
+/* Agrupación de cada campo (etiqueta + input) */
+.grupo-form {
+    margin-bottom: 20px;
+}
+
+.grupo-form label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #495057;
+}
+
+/* Entradas de texto y áreas de texto */
+.grupo-form input[type="text"],
+.grupo-form textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ced4da;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-family: inherit; /* Para que el textarea respete la fuente de la web */
+    box-sizing: border-box; /* Para que el padding no rompa el ancho 100% */
+}
+
+.grupo-form input[type="text"]:focus,
+.grupo-form textarea:focus {
+    border-color: #86b7fe;
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(13, 110, 253, 0.25);
+}
+
+/* Textos de ayuda (como el de los hashtags) */
+.grupo-form small {
+    display: block;
+    margin-top: 5px;
+    color: #6c757d;
+}
+
+/* =========================================
+   ZONA DE IMÁGENES (Punto B)
+   ========================================= */
+.zona-imagenes {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border: 1px dashed #adb5bd;
+    border-radius: 6px;
+}
+
+.galeria-edicion {
+    display: flex;
+    flex-wrap: wrap; /* Si hay muchas fotos, saltan de línea */
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.foto-edicion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: white;
+    padding: 10px;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+}
+
+.foto-edicion img {
+    border-radius: 4px;
+    margin-bottom: 8px;
+    object-fit: cover;
+}
+
+.foto-edicion label {
+    font-weight: normal;
+    color: #dc3545; /* Rojo para advertir que es para borrar */
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+/* =========================================
+   BOTONERA FINAL
+   ========================================= */
+.botones-form {
+    display: flex;
+    gap: 15px;
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #e9ecef;
+}
+
+.btn-guardar {
+    background-color: #198754; /* Verde */
+    color: white;
+    padding: 12px 24px;
+    font-size: 1.05rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.btn-guardar:hover {
+    background-color: #157347;
+}
+
+.btn-cancelar {
+    background-color: #6c757d; /* Gris */
+    color: white;
+    padding: 12px 24px;
+    font-size: 1.05rem;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: background-color 0.2s;
+    display: inline-flex;
+    align-items: center;
+}
+
+.btn-cancelar:hover {
+    background-color: #5c636a;
+}

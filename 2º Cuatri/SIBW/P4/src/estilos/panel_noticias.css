@@ -1,0 +1,235 @@
+/* =========================================
+   PANEL GLOBAL DE NOTICIAS
+   ========================================= */
+
+/* =========================================
+   PANEL GLOBAL DE NOTICIAS
+   ========================================= */
+
+#panel_gestion_noticias {
+    width: 90%;          /* Ocupa el 90% de la pantalla para dejar siempre aire a los lados */
+    max-width: 1000px;   /* En pantallas gigantes no crecerá más de esto */
+    margin: 30px auto;   /* Centra la caja horizontalmente y le da margen arriba/abajo */
+    background-color: #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    box-sizing: border-box; /* Evita que el padding empuje la caja hacia la derecha */
+}
+
+/* Cabecera del panel modificada */
+.cabecera-panel {
+    display: flex;
+    flex-direction: column;    /* Forzamos a que los elementos se apilen uno debajo del otro */
+    align-items: flex-start;   /* Alinea el título y el botón a la izquierda */
+    gap: 15px;                 /* Crea una separación perfecta entre el título y el botón */
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #e9ecef;
+}
+
+.titulo-perfil {
+    margin: 0;
+    color: #343a40;
+    font-size: 1.8rem;
+}
+
+/* Botón de añadir noticia en su nueva ubicación */
+.btn_anadir_noticia {
+    background-color: #0d6efd; 
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    transition: background-color 0.2s;
+    
+    /* Separación estratégica: se separa de los buscadores y del primer elemento de la lista */
+    margin-top: 5px;
+    margin-bottom: 20px;       
+    display: inline-block;     /* Crucial para que aplique bien los márgenes verticalmente */
+}
+
+.btn_anadir_noticia:hover {
+    background-color: #0b5ed7;
+}
+
+/* ... El resto de tus estilos (.caja-buscador, .noticia_item, etc.) se quedan igual ... */
+
+.btn_anadir_noticia:hover {
+    background-color: #0b5ed7;
+}
+
+/* Zona de buscadores (Punto C) */
+.caja-buscador {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 30px;
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #dee2e6;
+}
+
+.caja-buscador input {
+    flex: 1; /* Para que los 3 buscadores midan exactamente lo mismo */
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    font-size: 0.95rem;
+}
+
+.caja-buscador input:focus {
+    border-color: #86b7fe;
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(13, 110, 253, 0.25);
+}
+
+/* Tarjeta individual de cada noticia */
+.noticia_item {
+    background-color: white;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.titulo-noticia-panel {
+    margin: 0 0 10px 0;
+    color: #212529;
+    font-size: 1.4rem;
+}
+
+.meta-noticia {
+    color: #6c757d;
+    font-size: 0.9rem;
+    margin-bottom: 15px;
+}
+
+/* Diseño de los Hashtags (Punto D) */
+.hashtags-noticia {
+    margin-bottom: 15px;
+}
+
+.etiqueta-hashtag {
+    background-color: #e2e3e5;
+    color: #383d41;
+    padding: 4px 10px;
+    border-radius: 15px; /* Efecto pastilla/píldora */
+    font-size: 0.85rem;
+    font-weight: bold;
+    margin-right: 5px;
+    display: inline-block;
+}
+
+.texto-noticia-panel {
+    color: #495057;
+    line-height: 1.6;
+}
+
+/* Reutilizamos el CSS de los botones de control que ajustamos antes */
+.controles-gestor {
+    display: flex;
+    gap: 10px;
+    background-color: #f8f9fa;
+    padding: 10px 15px;
+    border-radius: 8px;
+    border: 1px solid #e9ecef;
+    margin-bottom: 15px;
+    width: fit-content; 
+}
+
+/* =========================================
+   ESTILOS DE LOS BOTONES DEL PANEL (EDITAR / ELIMINAR)
+   ========================================= */
+
+.btn_borrar_noticia,
+.btn_editar_noticia {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 6px 14px;
+    font-size: 0.85rem;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s, transform 0.1s;
+}
+
+.btn_borrar_noticia:active,
+.btn_editar_noticia:active {
+    transform: scale(0.96);
+}
+
+/* Editar: Tono Verde */
+.btn_editar_noticia {
+    background-color: #28a745;
+    color: white;
+}
+
+.btn_editar_noticia:hover {
+    background-color: #218838;
+}
+
+/* BOTÓN ELIMINAR EN ROJO */
+.btn_borrar_noticia {
+    background-color: #dc3545; /* Rojo peligro */
+    color: white;
+}
+
+.btn_borrar_noticia:hover {
+    background-color: #c82333; /* Rojo más oscuro al pasar el cursor */
+}
+
+/* =========================================
+   REGLAS RESPONSIVE PARA EL PANEL DE NOTICIAS
+   ========================================= */
+
+/* Para pantallas medianas / Tablets (Igual que tus otras secciones) */
+@media (max-width: 789px) {
+    .caja-buscador {
+        flex-direction: column; /* Los 3 buscadores se apilan en vertical */
+        gap: 10px;
+    }
+    
+    #panel_gestion_noticias {
+        margin-right: 15px; /* Reducimos el aire derecho para ganar espacio */
+        padding: 15px;
+    }
+}
+
+/* Para pantallas móviles (Cuando el menú lateral se va arriba/abajo) */
+@media (max-width: 500px) {
+    #panel_gestion_noticias {
+        margin-left: 10px;
+        margin-right: 10px;
+        width: auto; /* Evita desbordamientos en pantallas pequeñas */
+    }
+
+    .titulo-perfil {
+        font-size: 1.5rem; /* Título un poco más pequeño en móviles */
+    }
+
+    /* Forzamos a que las tarjetas de las noticias aprovechen el ancho completo */
+    .noticia_item {
+        padding: 15px;
+    }
+
+    /* Los botones de control se adaptan si el título de la noticia es muy largo */
+    .controles-gestor {
+        padding: 8px 10px;
+        width: 100%; /* El contenedor blanco ocupa el ancho de la tarjeta */
+        justify-content: flex-start;
+    }
+}
+
+/* Ajuste fino para móviles muy pequeños */
+@media (max-width: 360px) {
+    .btn_borrar_noticia,
+    .btn_editar_noticia {
+        padding: 6px 10px; /* Botones ligeramente más compactos */
+        font-size: 0.8rem;
+    }
+}

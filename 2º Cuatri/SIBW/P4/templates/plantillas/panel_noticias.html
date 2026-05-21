@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block stylesheets %}
+    {{ parent() }}
+    <link rel="stylesheet" href="estilos/panel_noticias.css?v={{ "now"|date("U") }}">
+{% endblock %}
+
+{% block titulo %}Gestión de Noticias - Lucerna Informa{% endblock %}
+
+{% block scripts %}
+    <script src="js/global.js?v={{ "now"|date("U") }}"></script>
+{% endblock %}
+
+{% block contenido %}
+<main id="panel_gestion_noticias">
+    <div class="cabecera-panel">
+        <h2 class="titulo-perfil">Gestión Global de Noticias</h2>
+    </div>
+
+    {# ZONA DE BÚSQUEDA AJAX (Punto C de la práctica) #}
+    <div class="caja-buscador">
+        <input type="text" id="buscador_titulo" placeholder="🔍 Buscar por título...">
+        <input type="text" id="buscador_desc" placeholder="🔍 Buscar en la descripción...">
+        <input type="text" id="buscador_hashtag" placeholder="#️⃣ Buscar por hashtag... (Opcional)">
+    </div>
+
+    {# LISTADO DE NOTICIAS #}
+    {# Botón vital para crear nuevas noticias (va al editor sin ID) #}
+        <a href="editor_noticia.php" class="btn_anadir_noticia">Añadir Nueva Noticia</a>
+    <div id="contenedor_noticias">
+        {% for noti in noticias %}
+            <div class="noticia_item">
+                
+                <div class="controles-gestor">
+                    <button class="btn_borrar_noticia" data-id="{{ noti.id }}">🗑️ Eliminar</button>
+                    <a href="editor_noticia.php?id={{ noti.id }}&origen=panel" class="btn_editar_noticia">✏️ Editar</a>
+                </div>
+
+                <h3 class="titulo-noticia-panel">{{ noti.titulo }}</h3>
+                <p class="meta-noticia">
+                    <strong>ID: #{{ noti.id }}</strong> | 📅 {{ noti.fecha }} | 📍 {{ noti.lugar }}
+                </p>
+                
+                {# Mostramos los hashtags (Punto D) #}
+                <p class="hashtags-noticia">
+                    {% for tag in noti.hashtags %}
+                        <span class="etiqueta-hashtag">#{{ tag }}</span>
+                    {% endfor %}
+                </p>
+                
+                {# Filtro slice para no mostrar la noticia entera, solo un resumen #}
+                <div class="texto-noticia-panel">{{ noti.descripcion[:150] | raw }}...</div>
+            </div>
+        {% else %}
+            <p>No hay noticias publicadas en el sistema.</p>
+        {% endfor %}
+    </div>
+</main>
+{% endblock %}
