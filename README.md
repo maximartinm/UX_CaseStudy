@@ -355,6 +355,11 @@ Finalmente, cerraremos el proceso  con la elaboración de un **informe de usabil
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
+Nos ha tocado el grupo DIU3.MASE pero como no tienen en el github la P3 hecha hemos decidico coger un grupo alternativo que corresponda al mismo grupo de prácticas, este es ALT-5 DIU3.RESCUE que correspondera con la prueba B sobre una página web de hamburguesas y nuestro proyecto con el A, sobre café barista .
+
+Enlace a u repositorio: [https://github.com/DIU2tertulianos](https://github.com/Practicas-DIU3-RESCUE/UX_CaseStudy)
+
+En este apartado se identifican los usuarios participantes en las pruebas, incluyendo su perfil con valores diferentes para una aproximacion mas exacta y el caso (A o B) que evaluaron.
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
