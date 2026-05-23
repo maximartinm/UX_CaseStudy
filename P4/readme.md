@@ -261,9 +261,9 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 | Tarea (Graná en Grano) | % Éxito | Tiempo medio | Clics medios |
 | :--- | :---: | :---: | :---: |
-| Localizar zona 'Cero Ruido' y verificar aforo | 100 % | 25 s | 3 |
-| Añadir un café de especialidad al carrito | 100 % | 30 s | 4 |
-| Comprobar disponibilidad de Bici-Parking | 80 % | 35 s | 4 |
+| Localizar zona 'Cero Ruido'  | 100 % | 25 s | 2 |
+| Añadir un café de especialidad al carrito | 100 % | 20 s | 1 o 2 |
+| Realizar la compra del carrito | 95 % | 35 s | 3 |
 | **Media general** | **93 %** | **30 s** | **3,6** |
 
 **Caso B – Web de Hamburguesas (DIU3.RESCUE)**
