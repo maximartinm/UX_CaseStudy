@@ -364,10 +364,16 @@ En este apartado se identifican los usuarios participantes en las pruebas, inclu
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+|    P01   | H / 22   | Estudiante  | Alta       | Tímido | Web.       | A 
+|    P02   | H / 21   | Estudiante  | Alta       | Serio       | Web        | A 
+|    P03   | M / 21   | Estudiante     | Alta        | Bromista    | Web      | A 
+|    P04   | H / 50   | Auxiliar  | Media       | Optimista     | Web        | A 
+|    P05   | H / 52   | Hosteleria  | Media       | Racional       | Web        | A 
+|    P06   | M / 24   | Enfermera     | Alta        | Impaciente    | Web      | B 
+|    P07   | H / 19   | Estudiante  | Alta       | Tranquila     | Web        | B 
+|    P08   | H / 26   | Fisioterapeuta  | Alta       | Despistado       | Web        | B 
+|    P09   | M / 56   | Comercial     | Media        | Racional    | Web      | B 
+|    P010   | H / 45   | Ingeniero  | Alta       | Racional     | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
