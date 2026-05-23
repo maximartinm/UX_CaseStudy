@@ -565,6 +565,31 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
 
+![Método UX](img/eye-tracking.png)
+----
+**Objetivo y Diseño del Experimento**
+Se analizó el recorrido visual de los usuarios mediante mapas de calor (Heatmaps) para evaluar el Diseño B (web de hamburguesas). El objetivo principal fue detectar problemas de visibilidad, validar la jerarquía visual diseñada por el equipo y comprobar si los usuarios localizan de forma intuitiva las llamadas a la acción (CTA) y la navegación principal. 
+
+Para el experimento, se rasterizaron 2 pantallas clave del Caso B. Se definió un escenario con tareas de búsqueda específicas antes de exponer al usuario al estímulo visual.
+
+**Reclutamiento y Herramienta**
+* **Herramienta:** GazeMapping (Instalación local). 
+* **Muestra:** Se realizó el seguimiento ocular a un subgrupo de 3 usuarios externos (perfiles representativos P06, P07 y P08), asegurando unas condiciones óptimas de iluminación y calibración de la webcam.
+
+**Resultados del Análisis Visual (Áreas de Interés - AOI)**
+A continuación, se detallan las métricas obtenidas sobre los elementos clave de la interfaz. Se ha medido el TTFF (*Time to First Fixation* o Tiempo hasta que el usuario miró el elemento por primera vez) y el porcentaje de usuarios que llegaron a visualizarlo.
+
+| AOI (Área de Interés) | Tarea Asociada | TTFF (s) | % Usuarios que la vieron |
+| :--- | :--- | :--- | :--- |
+| **Botón principal (Pedir Hamburguesa)** | Realizar pedido | 2,1 s | 100 % |
+| **Menú de navegación** | Buscar alérgenos/carta | 3,4 s | 66 % |
+| **Banner promocional** | Exploración libre | 5,2 s | 33 % |
+| **Icono de Usuario** | Acceder a la cuenta | 1,8 s | 100 % |
+
+**Evidencia Visual (Heatmap)**
+
+![Mapa de Calor Experimento](img/experimentoET.png)  
+*Figura 1: Mapa de calor del Caso B mostrando la dispersión de la mirada en la pantalla principal. (Nota: La alta concentración en el centro indica que el usuario localizó rápidamente la imagen principal, pero tardó más en encontrar el menú superior).*
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
