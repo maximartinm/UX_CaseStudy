@@ -393,6 +393,159 @@ http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-t
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
 
+### CUESTIONARIOS SUS A :
+
+## P01 : 
+
+|      | PREGUNTAS                                                    | 1    | 2    | 3    | 4    | 5    |
+| ---- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | Creo que me gustará visitar con frecuencia este website      |      |      |      |      |      |
+| 2    | Encontré el website innecesariamente complejo                |      |      |      |      |      |
+| 3    | Pensé que era fácil utilizar este website                    |      |      |      |      |      |
+| 4    | Creo que necesitaría del apoyo de un experto para recorrer el website |      |      |      |      |      |
+| 5    | Encontré las funciones del website bastante bien integradas  |      |      |      |      |      |
+| 6    | Pensé que había demasiada inconsistencia en el website       |      |      |      |      |      |
+| 7    | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |      |      |      |      |      |
+| 8    | Encontré el website muy grande al recorrerlo                 |      |      |      |      |      |
+| 9    | Me sentí muy confiado en el manejo del website               |      |      |      |      |      |
+| 10   | Necesito aprender muchas cosas antes de manejarse en el website |      |      |      |      |      |
+
+## P02 :
+
+|      | PREGUNTAS                                                    | 1    | 2    | 3    | 4    | 5    |
+| ---- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | Creo que me gustará visitar con frecuencia este website      |      |      |      |      |      |
+| 2    | Encontré el website innecesariamente complejo                |      |      |      |      |      |
+| 3    | Pensé que era fácil utilizar este website                    |      |      |      |      |      |
+| 4    | Creo que necesitaría del apoyo de un experto para recorrer el website |      |      |      |      |      |
+| 5    | Encontré las funciones del website bastante bien integradas  |      |      |      |      |      |
+| 6    | Pensé que había demasiada inconsistencia en el website       |      |      |      |      |      |
+| 7    | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |      |      |      |      |      |
+| 8    | Encontré el website muy grande al recorrerlo                 |      |      |      |      |      |
+| 9    | Me sentí muy confiado en el manejo del website               |      |      |      |      |      |
+| 10   | Necesito aprender muchas cosas antes de manejarse en el website |      |      |      |      |      |
+
+## P03 :
+
+|      | PREGUNTAS                                                    | 1    | 2    | 3    | 4    | 5    |
+| ---- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | Creo que me gustará visitar con frecuencia este website      |      |      |      |      |      |
+| 2    | Encontré el website innecesariamente complejo                |      |      |      |      |      |
+| 3    | Pensé que era fácil utilizar este website                    |      |      |      |      |      |
+| 4    | Creo que necesitaría del apoyo de un experto para recorrer el website |      |      |      |      |      |
+| 5    | Encontré las funciones del website bastante bien integradas  |      |      |      |      |      |
+| 6    | Pensé que había demasiada inconsistencia en el website       |      |      |      |      |      |
+| 7    | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |      |      |      |      |      |
+| 8    | Encontré el website muy grande al recorrerlo                 |      |      |      |      |      |
+| 9    | Me sentí muy confiado en el manejo del website               |      |      |      |      |      |
+| 10   | Necesito aprender muchas cosas antes de manejarse en el website |      |      |      |      |      |
+
+## P04 :
+
+|      | PREGUNTAS                                                    | 1    | 2    | 3    | 4    | 5    |
+| ---- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | Creo que me gustará visitar con frecuencia este website      |      |      |      |      |      |
+| 2    | Encontré el website innecesariamente complejo                |      |      |      |      |      |
+| 3    | Pensé que era fácil utilizar este website                    |      |      |      |      |      |
+| 4    | Creo que necesitaría del apoyo de un experto para recorrer el website |      |      |      |      |      |
+| 5    | Encontré las funciones del website bastante bien integradas  |      |      |      |      |      |
+| 6    | Pensé que había demasiada inconsistencia en el website       |      |      |      |      |      |
+| 7    | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |      |      |      |      |      |
+| 8    | Encontré el website muy grande al recorrerlo                 |      |      |      |      |      |
+| 9    | Me sentí muy confiado en el manejo del website               |      |      |      |      |      |
+| 10   | Necesito aprender muchas cosas antes de manejarse en el website |      |      |      |      |      |
+
+## P05 :
+
+|      | PREGUNTAS                                                    | 1    | 2    | 3    | 4    | 5    |
+| ---- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | Creo que me gustará visitar con frecuencia este website      |      |      |      |      |      |
+| 2    | Encontré el website innecesariamente complejo                |      |      |      |      |      |
+| 3    | Pensé que era fácil utilizar este website                    |      |      |      |      |      |
+| 4    | Creo que necesitaría del apoyo de un experto para recorrer el website |      |      |      |      |      |
+| 5    | Encontré las funciones del website bastante bien integradas  |      |      |      |      |      |
+| 6    | Pensé que había demasiada inconsistencia en el website       |      |      |      |      |      |
+| 7    | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |      |      |      |      |      |
+| 8    | Encontré el website muy grande al recorrerlo                 |      |      |      |      |      |
+| 9    | Me sentí muy confiado en el manejo del website               |      |      |      |      |      |
+| 10   | Necesito aprender muchas cosas antes de manejarse en el website |      |      |      |      |      |
+
+### CUESTIONARIOS SUS B :
+
+## P06 : 
+
+|      | PREGUNTAS                                                    | 1    | 2    | 3    | 4    | 5    |
+| ---- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | Creo que me gustará visitar con frecuencia este website      |      |      |      |      |      |
+| 2    | Encontré el website innecesariamente complejo                |      |      |      |      |      |
+| 3    | Pensé que era fácil utilizar este website                    |      |      |      |      |      |
+| 4    | Creo que necesitaría del apoyo de un experto para recorrer el website |      |      |      |      |      |
+| 5    | Encontré las funciones del website bastante bien integradas  |      |      |      |      |      |
+| 6    | Pensé que había demasiada inconsistencia en el website       |      |      |      |      |      |
+| 7    | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |      |      |      |      |      |
+| 8    | Encontré el website muy grande al recorrerlo                 |      |      |      |      |      |
+| 9    | Me sentí muy confiado en el manejo del website               |      |      |      |      |      |
+| 10   | Necesito aprender muchas cosas antes de manejarse en el website |      |      |      |      |      |
+
+## P07 : 
+
+|      | PREGUNTAS                                                    | 1    | 2    | 3    | 4    | 5    |
+| ---- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | Creo que me gustará visitar con frecuencia este website      |      |      |      |      |      |
+| 2    | Encontré el website innecesariamente complejo                |      |      |      |      |      |
+| 3    | Pensé que era fácil utilizar este website                    |      |      |      |      |      |
+| 4    | Creo que necesitaría del apoyo de un experto para recorrer el website |      |      |      |      |      |
+| 5    | Encontré las funciones del website bastante bien integradas  |      |      |      |      |      |
+| 6    | Pensé que había demasiada inconsistencia en el website       |      |      |      |      |      |
+| 7    | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |      |      |      |      |      |
+| 8    | Encontré el website muy grande al recorrerlo                 |      |      |      |      |      |
+| 9    | Me sentí muy confiado en el manejo del website               |      |      |      |      |      |
+| 10   | Necesito aprender muchas cosas antes de manejarse en el website |      |      |      |      |      |
+
+## P08 : 
+
+|      | PREGUNTAS                                                    | 1    | 2    | 3    | 4    | 5    |
+| ---- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | Creo que me gustará visitar con frecuencia este website      |      |      |      |      |      |
+| 2    | Encontré el website innecesariamente complejo                |      |      |      |      |      |
+| 3    | Pensé que era fácil utilizar este website                    |      |      |      |      |      |
+| 4    | Creo que necesitaría del apoyo de un experto para recorrer el website |      |      |      |      |      |
+| 5    | Encontré las funciones del website bastante bien integradas  |      |      |      |      |      |
+| 6    | Pensé que había demasiada inconsistencia en el website       |      |      |      |      |      |
+| 7    | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |      |      |      |      |      |
+| 8    | Encontré el website muy grande al recorrerlo                 |      |      |      |      |      |
+| 9    | Me sentí muy confiado en el manejo del website               |      |      |      |      |      |
+| 10   | Necesito aprender muchas cosas antes de manejarse en el website |      |      |      |      |      |
+
+## P09 : 
+
+|      | PREGUNTAS                                                    | 1    | 2    | 3    | 4    | 5    |
+| ---- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | Creo que me gustará visitar con frecuencia este website      |      |      |      |      |      |
+| 2    | Encontré el website innecesariamente complejo                |      |      |      |      |      |
+| 3    | Pensé que era fácil utilizar este website                    |      |      |      |      |      |
+| 4    | Creo que necesitaría del apoyo de un experto para recorrer el website |      |      |      |      |      |
+| 5    | Encontré las funciones del website bastante bien integradas  |      |      |      |      |      |
+| 6    | Pensé que había demasiada inconsistencia en el website       |      |      |      |      |      |
+| 7    | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |      |      |      |      |      |
+| 8    | Encontré el website muy grande al recorrerlo                 |      |      |      |      |      |
+| 9    | Me sentí muy confiado en el manejo del website               |      |      |      |      |      |
+| 10   | Necesito aprender muchas cosas antes de manejarse en el website |      |      |      |      |      |
+
+## P10 : 
+
+|      | PREGUNTAS                                                    | 1    | 2    | 3    | 4    | 5    |
+| ---- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | Creo que me gustará visitar con frecuencia este website      |      |      |      |      |      |
+| 2    | Encontré el website innecesariamente complejo                |      |      |      |      |      |
+| 3    | Pensé que era fácil utilizar este website                    |      |      |      |      |      |
+| 4    | Creo que necesitaría del apoyo de un experto para recorrer el website |      |      |      |      |      |
+| 5    | Encontré las funciones del website bastante bien integradas  |      |      |      |      |      |
+| 6    | Pensé que había demasiada inconsistencia en el website       |      |      |      |      |      |
+| 7    | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |      |      |      |      |      |
+| 8    | Encontré el website muy grande al recorrerlo                 |      |      |      |      |      |
+| 9    | Me sentí muy confiado en el manejo del website               |      |      |      |      |      |
+| 10   | Necesito aprender muchas cosas antes de manejarse en el website |      |      |      |      |      |
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
