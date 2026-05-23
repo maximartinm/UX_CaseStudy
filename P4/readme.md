@@ -261,14 +261,14 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 | Tarea (Graná en Grano) | % Éxito | Tiempo medio | Clics medios |
 | :--- | :---: | :---: | :---: |
-| Localizar zona 'Cero Ruido'  | 100 % | 25 s | 2 |
-| Añadir un café de especialidad al carrito | 100 % | 20 s | 1 o 2 |
+| Localizar zona 'Cero Ruido'  | 100 % | 20 s | 2 |
+| Añadir un café de especialidad al carrito | 100 % | 25 s | 1,5 |
 | Realizar la compra del carrito | 95 % | 35 s | 3 |
-| **Media general** | **93 %** | **30 s** | **3,6** |
+| **Media general** | **98,33 %** | **26,66 s** | **2,16** |
 
 **Caso B – Web de Hamburguesas (DIU3.RESCUE)**
 
-| Tarea (Web de Hamburguesas) | % Éxito | Tiempo medio | Clics medios |
+| Tarea (mejora del Goiko) | % Éxito | Tiempo medio | Clics medios |
 | :--- | :---: | :---: | :---: |
 | Localizar la hamburguesa principal de la carta | 100 % | 18 s | 2 |
 | Revisar alérgenos/ingredientes del producto | 60 % | 55 s | 6 |
