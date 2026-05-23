@@ -332,6 +332,21 @@ GUIDELINES :
 <br>
 
 ## Paso 4. Pruebas de Evaluación Nuestra WEB : (https://side-pro-91637215.figma.site)
+## Objetivo:
+
+El objetivo es evaluar el prototipo con usuarios reales mediante técnicas de investigación que nos permitan profundizar en la experiencia de uso e identificar posibles mejoras.
+
+Para lograrlo, emplearemos herramientas habituales de **UX Research**, fundamentales para obtener datos precisos sobre el comportamiento del usuario y su contexto. La estrategia metodológica combinará cuatro pilares técnicos:
+
+1. **A/B Testing:** Para validar la eficacia de dos variantes de diseño.
+2. **Cuestionario SUS (System Usability Scale):** Para medir la percepción subjetiva de la usabilidad de forma estandarizada.
+3. **Eye Tracking:** Para analizar visualmente la atención y el recorrido del usuario en la interfaz.
+4. **Evaluación de la usabilidad y accesibilidad**  del producto desarrollado.  
+
+La **estrategia de reclutamiento** se basará en un modelo de co-evaluación, integrando a otros grupos de clase para realizar una evaluación cruzada de las prácticas. 
+
+Finalmente, cerraremos el proceso  con la elaboración de un **informe de usabilidad (Usability Report)** que sintetice los hallazgos (*insight*) clave, las conclusiones de la investigación y las **recomendaciones de usabilidad** para la mejora del proyecto.
+
 
 ### 4.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
