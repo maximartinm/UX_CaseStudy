@@ -18,13 +18,6 @@ Actualizado: 14/01/2026
 ## Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 -----
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
->>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
 Grupo: DIU2.JoMax.  Curso: 2025/26 
 
 Nombre del Proyecto: **Graná en Grano** 
