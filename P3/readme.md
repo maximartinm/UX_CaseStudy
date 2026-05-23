@@ -16,14 +16,14 @@
 
 
 ### 3.b Landing Page
-![Método UX](img/landing-page.png) 
+![Método UX](../img/landing-page.png) 
 ----
 
 >>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
 
 
 ### 3.c Guidelines
-![Método UX](img/guidelines.png) 
+![Método UX](../img/guidelines.png) 
 ----
 
 #### Patrón de diseño
@@ -62,28 +62,28 @@ Para el diseño de la interfaz, se han seleccionado componentes que optimizan la
  * Eslogan: **"Tradición en cada grano, energía para tu día"**
 
 GUIDELINES : 
-![Guidelines](img/Guidelines.png) 
+![Guidelines](../img/Guidelines.png) 
 
 
 ### 3.d Mockup
-![Método UX](img/mockup.png) 
+![Método UX](../img/mockup.png) 
 ----
 
 #### HOME PAGE  
 
-![Inicio-Home](img/Inicio-Home.png) 
+![Inicio-Home](../img/Inicio-Home.png) 
 
 #### PANTALLA COMPRA  
 
-![Pantalla Compra](img/Pantalla-Compra.png) 
+![Pantalla Compra](../img/Pantalla-Compra.png) 
 
 #### TIENDA  
 
-![Tienda](img/Pantalla-productos.png) 
+![Tienda](../img/Pantalla-productos.png) 
 
 #### ESPACIOS  
 
-![Espacios](img/Espacios.png) 
+![Espacios](../img/Espacios.png) 
 
 #### VIDEO MOCKUP
 
