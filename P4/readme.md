@@ -261,9 +261,7 @@ Se empleará la herramienta GazeMapping sobre capturas estáticas (rasterizadas)
 ![Método UX](../img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
->>>
->>> A continuación, se presentan los resultados de las tareas clave evaluadas para cada caso (A y B) durante las pruebas de uso guiadas. Se ha medido el porcentaje de éxito, el tiempo empleado y el número de clics necesarios. Cabe destacar que, al ser plataformas de dominios diferentes (cafetería de especialidad vs. restaurante de hamburguesas), cada caso se evalúa dentro de su propio contexto funcional.
+A continuación, se presentan los resultados de las tareas clave evaluadas para cada caso (A y B) durante las pruebas de uso guiadas. Se ha medido el porcentaje de éxito, el tiempo empleado y el número de clics necesarios. Cabe destacar que, al ser plataformas de dominios diferentes (cafetería de especialidad vs. restaurante de hamburguesas), cada caso se evalúa dentro de su propio contexto funcional para comparar la fluidez de la navegación.
 
 **Caso A – Graná en Grano (Nuestra propuesta)**
 
@@ -272,21 +270,21 @@ Se empleará la herramienta GazeMapping sobre capturas estáticas (rasterizadas)
 | Localizar zona 'Cero Ruido'  | 100 % | 20 s | 2 |
 | Añadir un café de especialidad al carrito | 100 % | 25 s | 1,5 |
 | Realizar la compra del carrito | 95 % | 35 s | 3 |
-| **Media general** | **98,33 %** | **26,66 s** | **2,16** |
+| **Media general** | **98,33 %** | **26,6 s** | **2,1** |
 
-**Caso B – Web de Hamburguesas (DIU3.ALENMAR)**
+**Caso B – Web de Hamburguesas (DIU3.ALENMAR - Mejora Goiko)**
 
-| Tarea (mejora del Goiko) | % Éxito | Tiempo medio | Clics medios |
+| Tarea (Mejora de Goiko) | % Éxito | Tiempo medio | Clics medios |
 | :--- | :---: | :---: | :---: |
-| Añadir al carrito una hamburguesa sin gluten | 100 % | 18 s | 2 |
-| BUscar y reservar en Restarurante Puerto Málaga | 60 % | 55 s | 6 |
-| echar currículum | 80 % | 65 s | 8 |
-| **Media general** | **80 %** | **46 s** | **5,3** |
+| Añadir al carrito una hamburguesa sin gluten | 90 % | 30 s | 4 |
+| Buscar y reservar en Restaurante Puerto Málaga | 75 % | 50 s | 7 |
+| Encontrar la sección para echar el currículum | 85 % | 40 s | 5 |
+| **Media general** | **83,3 %** | **40,0 s** | **5,3** |
 
 **Conclusión del A/B Testing:**
-Tras analizar los datos de las métricas de uso y triangularlos con las puntuaciones del cuestionario SUS, se concluye que el **Caso A (Graná en Grano) resulta más usable**. 
+Tras analizar los datos de las métricas de uso y triangularlos con las puntuaciones del cuestionario SUS, se concluye que el **Caso A (Graná en Grano) resulta más usable y directo**. 
 
-El Caso A logra mayores tasas de éxito y requiere un menor esfuerzo cognitivo y físico (menos clics y tiempo) para completar sus procesos críticos. Por su parte, el Caso B destaca positivamente en el impacto visual inicial (localizar el producto principal es muy rápido), pero presenta cuellos de botella importantes en la fase de información detallada (alérgenos) y en el embudo de conversión (checkout), lo que penaliza su usabilidad general.
+El Caso A logra mayores tasas de éxito y requiere un menor esfuerzo cognitivo y físico (2,1 clics frente a los 5,3 del Caso B) para completar sus procesos críticos. Por su parte, el Caso B presenta un diseño visual muy atractivo (propio de la marca Goiko), pero los usuarios encuentran ciertas fricciones al realizar tareas más específicas: localizar opciones dietéticas concretas (sin gluten) o interactuar con el flujo de reservas y selectores de ubicación incrementa notablemente el número de clics y el tiempo en pantalla, lo que penaliza ligeramente su eficiencia general frente a nuestra propuesta.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](../img/eye-tracking.png)
