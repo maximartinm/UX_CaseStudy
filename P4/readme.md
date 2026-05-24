@@ -275,7 +275,7 @@ Tras analizar los datos de las métricas de uso y triangularlos con las puntuaci
 El Caso A logra mayores tasas de éxito y requiere un menor esfuerzo cognitivo y físico (menos clics y tiempo) para completar sus procesos críticos. Por su parte, el Caso B destaca positivamente en el impacto visual inicial (localizar el producto principal es muy rápido), pero presenta cuellos de botella importantes en la fase de información detallada (alérgenos) y en el embudo de conversión (checkout), lo que penaliza su usabilidad general.
 
 ### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
+![Método UX](../img/eye-tracking.png)
 ----
 
 >>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
