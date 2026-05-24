@@ -170,12 +170,12 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 | Usuario | Caso | Puntuación SUS | Escala lingüística |
 | :--- | :---: | :---: | :--- |
-| **P01** | A | 87,5 | Excelente |
-| **P02** | A | 82,5 | Bueno |
-| **P03** | A | 90,0 | Excelente |
-| **P04** | A | 77,5 | Bueno |
-| **P05** | A | 85,0 | Excelente |
-| **Media A** | **—** | **84,5** | **Excelente** |
+| **P01** | A | % |  |
+| **P02** | A |  |  |
+| **P03** | A |  |  |
+| **P04** | A |  |  |
+| **P05** | A |  |  |
+| **Media A** | **—** | **%** | **Excelente** |
 
 ### CUESTIONARIOS SUS B :
 
@@ -253,6 +253,17 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 | 8    | Encontré el website muy grande al recorrerlo                 |      |      |      |      |      |
 | 9    | Me sentí muy confiado en el manejo del website               |      |      |      |      |      |
 | 10   | Necesito aprender muchas cosas antes de manejarse en el website |      |      |      |      |      |
+
+**Resultados Caso B – Web de Hamburguesas (DIU3.alenmar)**
+
+| Usuario | Caso | Puntuación SUS | Escala lingüística |
+| :--- | :---: | :---: | :--- |
+| **P06** | B |  |  |
+| **P07** | B |  |  |
+| **P08** | B |  |  |
+| **P09** | B |  |  |
+| **P10** | B |  |  |
+| **Media B** | **—** | **62,0** | **Aceptable** |
 
 ### 4.d A/B Testing
 ![Método UX](../img/ABtesting.png) 
