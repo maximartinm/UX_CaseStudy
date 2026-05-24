@@ -72,7 +72,7 @@ Como paso preliminar antes de involucrar a los usuarios, el equipo aplicará el 
 
 **3. Tareas de Navegación Guiada (Prueba de uso)**
 Se realizará una interacción directa con los prototipos donde observaremos el comportamiento del usuario (si duda, si hace clics erróneos o si requiere asistencia). Para ello, les daremos las siguientes tareas:
-* **Para el Caso A (Graná en Grano):** "Eres un estudiante que busca un lugar para concentrarse y tomar un buen café. Tus objetivos son: 1) Localizar la zona 'Cero Ruido', 2) Añadir un café de especialidad al carrito, y 3) Realizar la compra completando el proceso en el carrito."
+* **Para el Caso A (Graná en Grano):** "Eres un estudiante que busca un lugar para concentrarse y tomar un buen café. Tus objetivos son: 1) Añadir al carrito una hamburguesa sin gluten, 2) Busacr y reservar en Goiko málaga puerto  y 3) Echar currículum."
 * **Para el Caso B (Web de Hamburguesas - Mejora del Goiko):** "Quieres pedir la cena para probar una nueva hamburguesería. Tus objetivos son: 1) Localizar la hamburguesa principal de la carta, 2) Revisar los alérgenos o ingredientes de ese producto, y 3) Avanzar por la web hasta llegar a la pantalla de pago (Checkout)."
 
 **4. Prueba de Seguimiento Ocular (Eye Tracking)**
