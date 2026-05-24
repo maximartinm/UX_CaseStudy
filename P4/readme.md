@@ -286,7 +286,7 @@ El Caso A logra mayores tasas de éxito y requiere un menor esfuerzo cognitivo y
 
 >>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
 
-![Método UX](img/eye-tracking.png)
+![Método UX](../img/eye-tracking.png)
 ----
 **Objetivo y Diseño del Experimento**
 Se analizó el recorrido visual de los usuarios mediante mapas de calor (Heatmaps) para evaluar el Diseño B (web de hamburguesas). El objetivo principal fue detectar problemas de visibilidad, validar la jerarquía visual diseñada por el equipo y comprobar si los usuarios localizan de forma intuitiva las llamadas a la acción (CTA) y la navegación principal. 
