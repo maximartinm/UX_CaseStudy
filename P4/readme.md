@@ -73,8 +73,7 @@ Como paso preliminar antes de involucrar a los usuarios, el equipo aplicará el 
 **3. Tareas de Navegación Guiada (Prueba de uso)**
 Se realizará una interacción directa con los prototipos donde observaremos el comportamiento del usuario (si duda, si hace clics erróneos o si requiere asistencia). Para ello, les daremos las siguientes tareas:
 * **Para el Caso A (Graná en Grano):** "Eres un estudiante que busca un lugar para concentrarse y tomar un buen café. Tus objetivos son: 1) Añadir al carrito una hamburguesa sin gluten, 2) Busacr y reservar en Goiko málaga puerto  y 3) Echar currículum."
-* **Para el Caso B (Web de Hamburguesas - Mejora del Goiko):** "Quieres pedir la cena para probar una nueva hamburguesería. Tus objetivos son: 1) Localizar la hamburguesa principal de la carta, 2) Revisar los alérgenos o ingredientes de ese producto, y 3) Avanzar por la web hasta llegar a la pantalla de pago (Checkout)."
-
+* **Para el Caso B (Web de Hamburguesas - Mejora del Goiko):** "Quieres pedir la cena para probar una nueva hamburguesería. Tus objetivos son: 1) Añadir al carrito una hamburguesa sin gluten, 2) Busacr y reservar en Goiko málaga puerto  y 3) Echar currículum."
 **4. Prueba de Seguimiento Ocular (Eye Tracking)**
 Se empleará la herramienta GazeMapping sobre capturas estáticas (rasterizadas) de las interfaces. Pediremos al usuario que localice elementos críticos en 5-10 segundos para extraer los mapas de calor (Heatmaps) y validar si la jerarquía visual de los CTAs (botones principales) es efectiva.
 
@@ -262,9 +261,9 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 | Tarea (mejora del Goiko) | % Éxito | Tiempo medio | Clics medios |
 | :--- | :---: | :---: | :---: |
-| Localizar la hamburguesa principal de la carta | 100 % | 18 s | 2 |
-| Revisar alérgenos/ingredientes del producto | 60 % | 55 s | 6 |
-| Llegar a la pantalla de pago (Checkout) | 80 % | 65 s | 8 |
+| Añadir al carrito una hamburguesa sin gluten | 100 % | 18 s | 2 |
+| BUscar y reservar en Restarurante Puerto Málaga | 60 % | 55 s | 6 |
+| echar currículum | 80 % | 65 s | 8 |
 | **Media general** | **80 %** | **46 s** | **5,3** |
 
 **Conclusión del A/B Testing:**
