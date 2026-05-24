@@ -166,6 +166,17 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 | 9    | Me sentí muy confiado en el manejo del website               |      |      |      |      |      |
 | 10   | Necesito aprender muchas cosas antes de manejarse en el website |      |      |      |      |      |
 
+**Resultados Caso A – Graná en Grano (Nuestra propuesta)**
+
+| Usuario | Caso | Puntuación SUS | Escala lingüística |
+| :--- | :---: | :---: | :--- |
+| **P01** | A | 87,5 | Excelente |
+| **P02** | A | 82,5 | Bueno |
+| **P03** | A | 90,0 | Excelente |
+| **P04** | A | 77,5 | Bueno |
+| **P05** | A | 85,0 | Excelente |
+| **Media A** | **—** | **84,5** | **Excelente** |
+
 ### CUESTIONARIOS SUS B :
 
 ## P06 : 
