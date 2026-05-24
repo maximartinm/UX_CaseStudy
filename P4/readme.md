@@ -35,11 +35,8 @@ Finalmente, cerraremos el proceso  con la elaboración de un **informe de usabil
 
 
 ### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
+![Método UX](../img/usability-testing.png)
 -----
-
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
 Nos ha tocado el grupo DIU3.MASE pero como no tienen en el github la P3 hecha hemos decidido coger un grupo alternativo que corresponda al mismo grupo de prácticas que nos había tocado, este es ALT-5 DIU3.RESCUE que correspondeá con la prueba B sobre una página web de hamburguesas y nuestro proyecto con el A, sobre café barista .
 
@@ -63,12 +60,9 @@ En este apartado se identifican los usuarios participantes en las pruebas, inclu
 
 
 ### 4.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
+![Método UX](../img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
------
 El diseño de la evaluación se plantea como un estudio comparativo *Entre-Sujetos* (A/B Testing), donde cada participante evaluará únicamente una de las dos propuestas (Caso A o Caso B) para evitar sesgos de aprendizaje. El protocolo de evaluación consta de las siguientes pruebas:
 
 **1. Revisión Experta (Uso del Checklist P1)**
@@ -89,7 +83,7 @@ Se realizará una interacción directa con los prototipos donde observaremos el 
 Se empleará la herramienta GazeMapping sobre capturas estáticas (rasterizadas) de las interfaces. Pediremos al usuario que localice elementos críticos en 5-10 segundos para extraer los mapas de calor (Heatmaps) y validar si la jerarquía visual de los CTAs (botones principales) es efectiva.
 
 ### 4.c Cuestionario SUS
-![Método UX](img/Survey.png) 
+![Método UX](../img/Survey.png) 
 ----
 
 >>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
@@ -252,7 +246,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 | 10   | Necesito aprender muchas cosas antes de manejarse en el website |      |      |      |      |      |
 
 ### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
+![Método UX](../img/ABtesting.png) 
 -----
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
@@ -317,11 +311,11 @@ A continuación, se detallan las métricas obtenidas sobre los elementos clave d
 
 **Evidencia Visual (Heatmap)**
 
-![Mapa de Calor Experimento](img/experimentoET.png)  
+![Mapa de Calor Experimento](../img/experimentoET.png)  
 *Figura 1: Mapa de calor del Caso B mostrando la dispersión de la mirada en la pantalla principal. (Nota: La alta concentración en el centro indica que el usuario localizó rápidamente la imagen principal, pero tardó más en encontrar el menú superior).*
 
 ### 4.f Usability Report de B
-![Método UX](img/usability-report.png) 
+![Método UX](../img/usability-report.png) 
 -----
 
 >>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
