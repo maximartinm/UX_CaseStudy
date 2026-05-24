@@ -64,7 +64,10 @@ El diseño de la evaluación se plantea como un estudio comparativo *Entre-Sujet
 **1. Revisión Experta (Uso del Checklist P1)**
 Como paso preliminar antes de involucrar a los usuarios, el equipo aplicará el Checklist de usabilidad (evaluación heurística) desarrollado en la Práctica 1. Esto nos servirá como filtro técnico para identificar fallos estructurales o de navegación evidentes y poder contrastarlos después con la experiencia real de los usuarios.
 
-![Revision Experta](../img/CompetitorAnalysisJomax.png)
+![Revision Experta A](../img/CompetitorAnalysisJomax.png)  
+
+![Revision Experta B](../img/COMPETITORGOIKOBURGERS.png)  
+
 
 **2. Cuestionario SUS y Auditoría de Accesibilidad**
 * **Percepción Subjetiva (SUS):** Inmediatamente después de la prueba de uso, cada participante rellenará el cuestionario *System Usability Scale* mediante Tally.so para cuantificar del 0 al 100 su nivel de satisfacción.
