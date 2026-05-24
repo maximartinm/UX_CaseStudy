@@ -13,10 +13,6 @@
 Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 - Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
->>>>
->>>> 
 ## Paso 4. Pruebas de Evaluación Nuestra WEB : (https://side-pro-91637215.figma.site)
 ## Objetivo:
 
@@ -40,7 +36,7 @@ Finalmente, cerraremos el proceso  con la elaboración de un **informe de usabil
 
 Nos ha tocado el grupo DIU3.MASE pero como no tienen en el github la P3 hecha hemos decidido coger un grupo alternativo que corresponda al mismo grupo de prácticas que nos había tocado, este es ALT-5 DIU3.RESCUE que correspondeá con la prueba B sobre una página web de hamburguesas y nuestro proyecto con el A, sobre café barista .
 
-Enlace a su repositorio: [DIU3-Rescue](https://github.com/Practicas-DIU3-RESCUE/UX_CaseStudy)
+Enlace a su repositorio: [DIU3-ALENMAR](https://github.com/mmpeula/UX_CaseStudy))
 
 En este apartado se identifican los usuarios participantes en las pruebas, incluyendo su perfil con valores diferentes para una aproximacion mas exacta y el caso (A o B) que evaluaron.
 
