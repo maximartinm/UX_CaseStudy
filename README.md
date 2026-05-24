@@ -350,7 +350,7 @@ Finalmente, cerraremos el proceso  con la elaboración de un **informe de usabil
 
 Nos ha tocado el grupo DIU3.MASE pero como no tienen en el github la P3 hecha hemos decidido coger un grupo alternativo que corresponda al mismo grupo de prácticas que nos había tocado, este es ALT-5 DIU3.RESCUE que correspondeá con la prueba B sobre una página web de hamburguesas y nuestro proyecto con el A, sobre café barista .
 
-Enlace a su repositorio: [https://github.com/DIU2tertulianos](https://github.com/Practicas-DIU3-RESCUE/UX_CaseStudy)
+Enlace a su repositorio: [DIU3-Rescue](https://github.com/Practicas-DIU3-RESCUE/UX_CaseStudy)
 
 En este apartado se identifican los usuarios participantes en las pruebas, incluyendo su perfil con valores diferentes para una aproximacion mas exacta y el caso (A o B) que evaluaron.
 
