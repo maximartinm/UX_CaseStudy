@@ -672,15 +672,6 @@ Para tangibilizar el trabajo de prototipado realizado en la Práctica 3, se ha l
 Esta tarea se ha ejecutado aprovechando las capacidades de publicación de Figma (Figma to Web / exportación a frameworks basados en componentes). Durante este proceso hemos validado que la estructura del box-model (márgenes, paddings y flexbox) configurada en nuestros diseños se traduce correctamente a código CSS/React, asegurando que la responsividad planeada (Tab bar inferior, redistribución de tarjetas de producto) se mantiene fiel al diseño original en diferentes resoluciones de pantalla.
 
 
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-<br>
-
 ## Conclusiones finales & Valoración de las prácticas
 
 El desarrollo de "Graná en Grano" a través de esta serie de prácticas basadas en la metodología UX ha supuesto un cambio radical en nuestra forma de afrontar el desarrollo de software. Hemos pasado de diseñar "lo que creemos que es bonito" a diseñar "lo que el usuario realmente necesita y puede usar".  
