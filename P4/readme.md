@@ -282,7 +282,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 | Realizar la compra del carrito | 95 % | 35 s | 3 |
 | **Media general** | **98,33 %** | **26,66 s** | **2,16** |
 
-**Caso B – Web de Hamburguesas (DIU3.RESCUE)**
+**Caso B – Web de Hamburguesas (DIU3.ALENMAR)**
 
 | Tarea (mejora del Goiko) | % Éxito | Tiempo medio | Clics medios |
 | :--- | :---: | :---: | :---: |
