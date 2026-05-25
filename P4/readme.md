@@ -314,10 +314,10 @@ A continuación, se detallan las métricas obtenidas sobre los elementos clave d
 
 | AOI (Área de Interés) | Tarea Asociada | TTFF (s) | % Usuarios que la vieron |
 | :--- | :--- | :--- | :--- |
-| **Botón principal (Pedir Hamburguesa)** | Realizar pedido | 2,1 s | 100 % |
-| **Menú de navegación** | Buscar alérgenos/carta | 3,4 s | 66 % |
-| **Banner promocional** | Exploración libre | 5,2 s | 33 % |
-| **Icono de Usuario** | Acceder a la cuenta | 1,8 s | 100 % |
+| **Botón principal (Pedir Hamburguesa)** | Realizar pedido |  s |  % |
+| **Menú de navegación** | Buscar alérgenos/carta |  s |  % |
+| **Banner promocional** | Exploración libre |  s |  % |
+| **Icono de Usuario** | Acceder a la cuenta |  s |  % |
 
 **Evidencia Visual (Heatmap)**
 
