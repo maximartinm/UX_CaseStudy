@@ -276,9 +276,9 @@ A continuación, se presentan los resultados de las tareas clave evaluadas para 
 
 | Tarea (Mejora de Goiko) | % Éxito | Tiempo medio | Clics medios |
 | :--- | :---: | :---: | :---: |
-| Añadir al carrito una hamburguesa sin gluten | 90 % | 30 s | 4 |
-| Buscar y reservar en Restaurante Puerto Málaga | 75 % | 50 s | 7 |
-| Encontrar la sección para echar el currículum | 85 % | 40 s | 5 |
+| Añadir al carrito una hamburguesa sin gluten | 90 % | 30 s | 3 |
+| Buscar y reservar en Restaurante Puerto Málaga | 75 % | 50 s | 6 |
+| Encontrar la sección para echar el currículum | 85 % | 40 s | 4 |
 | **Media general** | **83,3 %** | **40,0 s** | **5,3** |
 
 **Conclusión del A/B Testing:**
