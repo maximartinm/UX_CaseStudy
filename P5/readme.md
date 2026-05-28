@@ -2,7 +2,7 @@
 
 
 ### 5.a Exportación a HTML/React : Nuestra web : https://side-pro-91637215.figma.site
-![Método UX](img/usabilityReview.png) 
+![Método UX](../img/usabilityReview.png) 
 ----
 
 Para tangibilizar el trabajo de prototipado realizado en la Práctica 3, se ha llevado a cabo la exportación del diseño visual a un entorno web funcional.
