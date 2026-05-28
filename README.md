@@ -593,7 +593,7 @@ A continuación, se presentan los resultados de las tareas clave evaluadas para 
 | Añadir al carrito una hamburguesa sin gluten | 90 % | 30 s | 3 |
 | Buscar y reservar en Restaurante Puerto Málaga | 75 % | 50 s | 6 |
 | Encontrar la sección para echar el currículum | 85 % | 40 s | 4 |
-| **Media general** | **83,3 %** | **40,0 s** | **5,3** |
+| **Media general** | **83,3 %** | **40,0 s** | **4,3** |
 
 **Conclusión del A/B Testing:**
 Tras analizar los datos de las métricas de uso y triangularlos con las puntuaciones del cuestionario SUS, se concluye que el **Caso A (Graná en Grano) resulta más usable y directo**. 
