@@ -324,6 +324,18 @@ GUIDELINES :
 
 <br>
 
+# DIU - Practica 4, entregables
+
+- Users. Elección y características de los usuarios reclutados
+- Diseño de las pruebas
+- Realización del Cuestionario SUS para usuarios y casos A y B.
+- Tabla A/B Testing con resultados para A y B
+- Eye Tracking para B
+- Usability Report del Caso B, con toda la información recabada del caso B
+
+Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
+- Conclusiones
+
 ## Paso 4. Pruebas de Evaluación Nuestra WEB : (https://side-pro-91637215.figma.site)
 ## Objetivo:
 
@@ -342,7 +354,7 @@ Finalmente, cerraremos el proceso  con la elaboración de un **informe de usabil
 
 
 ### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
+![Método UX](../img/usability-testing.png)
 -----
 
 Nos ha tocado el grupo DIU3.MASE pero como no tienen en el github la P3 hecha hemos decidido coger un grupo alternativo que corresponda al mismo grupo de prácticas que nos había tocado, este es DIU3.ALENMAR que correspondeá con la prueba B sobre una página web de hamburguesas y nuestro proyecto con el A, sobre café barista .
@@ -367,7 +379,7 @@ En este apartado se identifican los usuarios participantes en las pruebas, inclu
 
 
 ### 4.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
+![Método UX](../img/usability-testing.png) 
 -----
 
 El diseño de la evaluación se plantea como un estudio comparativo *Entre-Sujetos* (A/B Testing), donde cada participante evaluará únicamente una de las dos propuestas (Caso A o Caso B) para evitar sesgos de aprendizaje. El protocolo de evaluación consta de las siguientes pruebas:
@@ -375,9 +387,9 @@ El diseño de la evaluación se plantea como un estudio comparativo *Entre-Sujet
 **1. Revisión Experta (Uso del Checklist P1)**
 Como paso preliminar antes de involucrar a los usuarios, el equipo aplicará el Checklist de usabilidad (evaluación heurística) desarrollado en la Práctica 1. Esto nos servirá como filtro técnico para identificar fallos estructurales o de navegación evidentes y poder contrastarlos después con la experiencia real de los usuarios.
 
-![Revision Experta A](img/CompetitorAnalysisJomax.png)  
+![Revision Experta A](../img/CompetitorAnalysisJomax.png)  
 
-![Revision Experta B](img/COMPETITORGOIKOBURGERS.png)  
+![Revision Experta B](../img/COMPETITORGOIKOBURGERS.png)  
 
 
 **2. Cuestionario SUS y Auditoría de Accesibilidad**
@@ -386,13 +398,13 @@ Como paso preliminar antes de involucrar a los usuarios, el equipo aplicará el 
 
 **3. Tareas de Navegación Guiada (Prueba de uso)**
 Se realizará una interacción directa con los prototipos donde observaremos el comportamiento del usuario (si duda, si hace clics erróneos o si requiere asistencia). Para ello, les daremos las siguientes tareas:
-* **Para el Caso A (Graná en Grano):** "Eres un estudiante que busca un lugar para concentrarse y tomar un buen café. Tus objetivos son: 1) Añadir al carrito una hamburguesa sin gluten, 2) Busacr y reservar en Goiko málaga puerto  y 3) Echar currículum."
+* **Para el Caso A (Graná en Grano):** " Tus objetivos son: 1) Localizar la zona 'Cero Ruido', 2) Añadir un café de especialidad al carrito, y 3) Realizar la compra completando el proceso."
 * **Para el Caso B (Web de Hamburguesas - Mejora del Goiko):** "Quieres pedir la cena para probar una nueva hamburguesería. Tus objetivos son: 1) Añadir al carrito una hamburguesa sin gluten, 2) Busacr y reservar en Goiko málaga puerto  y 3) Echar currículum."
 **4. Prueba de Seguimiento Ocular (Eye Tracking)**
 Se empleará la herramienta GazeMapping sobre capturas estáticas (rasterizadas) de las interfaces. Pediremos al usuario que localice elementos críticos en 5-10 segundos para extraer los mapas de calor (Heatmaps) y validar si la jerarquía visual de los CTAs (botones principales) es efectiva.
 
 ### 4.c Cuestionario SUS
-![Método UX](img/Survey.png) 
+![Método UX](../img/Survey.png) 
 ----
 
 ### CUESTIONARIOS SUS A :
@@ -572,7 +584,7 @@ Se empleará la herramienta GazeMapping sobre capturas estáticas (rasterizadas)
 | **Media B** | **—** | **76.0** | **Bueno / Aceptable** |
 
 ### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
+![Método UX](../img/ABtesting.png) 
 -----
 
 A continuación, se presentan los resultados de las tareas clave evaluadas para cada caso (A y B) durante las pruebas de uso guiadas. Se ha medido el porcentaje de éxito, el tiempo empleado y el número de clics necesarios. Cabe destacar que, al ser plataformas de dominios diferentes (cafetería de especialidad vs. restaurante de hamburguesas), cada caso se evalúa dentro de su propio contexto funcional para comparar la fluidez de la navegación.
@@ -598,48 +610,32 @@ A continuación, se presentan los resultados de las tareas clave evaluadas para 
 **Conclusión del A/B Testing:**
 Tras analizar los datos de las métricas de uso y triangularlos con las puntuaciones del cuestionario SUS, se concluye que el **Caso A (Graná en Grano) resulta más usable y directo**. 
 
-El Caso A logra mayores tasas de éxito y requiere un menor esfuerzo cognitivo y físico (2,1 clics frente a los 5,3 del Caso B) para completar sus procesos críticos. Por su parte, el Caso B presenta un diseño visual muy atractivo (propio de la marca Goiko), pero los usuarios encuentran ciertas fricciones al realizar tareas más específicas: localizar opciones dietéticas concretas (sin gluten) o interactuar con el flujo de reservas y selectores de ubicación incrementa notablemente el número de clics y el tiempo en pantalla, lo que penaliza ligeramente su eficiencia general frente a nuestra propuesta.
+El Caso A logra mayores tasas de éxito y requiere un menor esfuerzo cognitivo y físico (2,1 clics frente a los 4,3 del Caso B) para completar sus procesos críticos. Por su parte, el Caso B presenta un diseño visual muy atractivo (propio de la marca Goiko), pero los usuarios encuentran ciertas fricciones al realizar tareas más específicas: localizar opciones dietéticas concretas (sin gluten) o interactuar con el flujo de reservas y selectores de ubicación incrementa notablemente el número de clics y el tiempo en pantalla, lo que penaliza ligeramente su eficiencia general frente a nuestra propuesta.
 
 ### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
-----
-
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
-
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
-![Método UX](img/eye-tracking.png)
 ----
 **Objetivo y Diseño del Experimento**
 Se analizó el recorrido visual de los usuarios mediante mapas de calor (Heatmaps) para evaluar el Diseño B (web de hamburguesas). El objetivo principal fue detectar problemas de visibilidad, validar la jerarquía visual diseñada por el equipo y comprobar si los usuarios localizan de forma intuitiva las llamadas a la acción (CTA) y la navegación principal. 
 
-Para el experimento, se rasterizaron 2 pantallas clave del Caso B. Se definió un escenario con tareas de búsqueda específicas antes de exponer al usuario al estímulo visual.
+Para el experimento, se rasterizaron 3 pantallas clave del Caso B. Se definió un escenario con tareas de búsqueda específicas antes de exponer al usuario al estímulo visual y si veíamos que había problemas les dejabamos libre navegación, ya que Gaze son imagenes y no tiene funciones dinámicas.
 
 **Reclutamiento y Herramienta**
 * **Herramienta:** GazeMapping (Instalación local). 
 * **Muestra:** Se realizó el seguimiento ocular a un subgrupo de 3 usuarios externos (perfiles representativos P06, P07 y P08), asegurando unas condiciones óptimas de iluminación y calibración de la webcam.
 
-**Resultados del Análisis Visual (Áreas de Interés - AOI)**
-A continuación, se detallan las métricas obtenidas sobre los elementos clave de la interfaz. Se ha medido el TTFF (*Time to First Fixation* o Tiempo hasta que el usuario miró el elemento por primera vez) y el porcentaje de usuarios que llegaron a visualizarlo.
-
-| AOI (Área de Interés) | Tarea Asociada | TTFF (s) | % Usuarios que la vieron |
-| :--- | :--- | :--- | :--- |
-| **Botón principal (Pedir Hamburguesa)** | Realizar pedido | 2,1 s | 100 % |
-| **Menú de navegación** | Buscar alérgenos/carta | 3,4 s | 66 % |
-| **Banner promocional** | Exploración libre | 5,2 s | 33 % |
-| **Icono de Usuario** | Acceder a la cuenta | 1,8 s | 100 % |
-
 **Evidencia Visual (Heatmap)**
 
-![Mapa de Calor Experimento](img/experimentoET.png)  
-*Figura 1: Mapa de calor del Caso B mostrando la dispersión de la mirada en la pantalla principal. (Nota: La alta concentración en el centro indica que el usuario localizó rápidamente la imagen principal, pero tardó más en encontrar el menú superior).*
+![Mapa de Calor 1](../img/Gaze1.jpg)  
+*En el mapa de calor de la Figura 1 , se evidencia que las imágenes fotográficas de las hamburguesas son el principal imán visual de la página, concentrando las fijaciones más prolongadas. Sin embargo, se detecta un claro problema de jerarquía visual en la navegación superior: el botón secundario 'Reservar' acapara casi toda la atención inicial gracias a su color amarillo vibrante, mientras que el botón principal de 'Hacer Pedido', al ser oscuro, pasa prácticamente desapercibido .*
+
+![Mapa de Calor 2](../img/Gaze2.jpg)  
+*El mapa de calor de la Figura 2 , correspondiente a la vista de la carta completa, revela un patrón de escaneo horizontal muy marcado a través de la cuadrícula de productos. La alta densidad de fijaciones  en las filas centrales sugiere que el usuario realizó un esfuerzo cognitivo considerable para comparar las distintas opciones, alternando su mirada constantemente de izquierda a derecha entre las fotografías, los ingredientes y los precios. Asimismo, se evidencia cierta fatiga visual a medida que desciende por la pantalla, ya que la intensidad de las miradas disminuye notablemente en la última fila.*
+
+![Mapa de Calor 3](../img/Gaze3.jpg)  
+*El mapa de calor de la Figura 3 , correspondiente a la vista mixta de catálogo y carrito, muestra una clara división de la atención del usuario entre la zona central de productos y el panel derecho de 'Resumen del Pedido'. Resulta muy positivo observar que el botón de llamada a la acción 'Finalizar Compra' logra captar una fijación directa e intensa , confirmando que su ubicación lateral es efectiva para guiar el flujo de pago. Además, se aprecia una fuerte concentración visual en la barra de búsqueda superior y en el título de la categoría ('Hamburguesas').*
 
 ### 4.f Usability Report de B
-![Método UX](img/usability-report.png) 
+![Método UX](../img/usability-report.png) 
 -----
 
 >>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
@@ -647,9 +643,7 @@ A continuación, se detallan las métricas obtenidas sobre los elementos clave d
 
 >>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
 
-En este apartado se sintetizan los hallazgos del informe de usabilidad realizado sobre el prototipo del grupo evaluado (Caso B - DIU3.RESCUE). El documento completo con el formato estándar recomendado (Resumen ejecutivo, Metodología, Datos cuantitativos SUS, Biometría de Eye Tracking y Auditoría de Accesibilidad con WAVE/Lighthouse) se encuentra enlazado y subido a nuestro repositorio.
-
-* Enlace al informe completo: [P4_UsabReport_DIU3_RESCUE_doneby_DIU2_JoMax.pdf](P4/P4_UsabReport_DIU3_RESCUE_doneby_DIU2_JoMax.pdf)
+En este apartado se sintetizan los hallazgos del informe de usabilidad realizado sobre el prototipo del grupo evaluado (Caso B - DIU3.ALENMAR). El documento completo con el formato estándar recomendado (Resumen ejecutivo, Metodología, Datos cuantitativos SUS, Biometría de Eye Tracking y Auditoría de Accesibilidad con WAVE/Lighthouse) se encuentra enlazado y subido a nuestro repositorio.
 
 A continuación, se presenta la tabla resumen con las principales debilidades de usabilidad detectadas en la web de hamburguesas, su nivel de gravedad y las recomendaciones de diseño propuestas:
 
@@ -670,6 +664,8 @@ Hemos comprendido empíricamente que la jerarquía de los elementos y la econom�
 
 
 <br>
+
+
 
 ## Paso 5. Exportación y Documentación 
 
