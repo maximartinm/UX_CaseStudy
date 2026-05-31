@@ -287,27 +287,11 @@ Tras analizar los datos de las métricas de uso y triangularlos con las puntuaci
 El Caso A logra mayores tasas de éxito y requiere un menor esfuerzo cognitivo y físico (2,1 clics frente a los 5,3 del Caso B) para completar sus procesos críticos. Por su parte, el Caso B presenta un diseño visual muy atractivo (propio de la marca Goiko), pero los usuarios encuentran ciertas fricciones al realizar tareas más específicas: localizar opciones dietéticas concretas (sin gluten) o interactuar con el flujo de reservas y selectores de ubicación incrementa notablemente el número de clics y el tiempo en pantalla, lo que penaliza ligeramente su eficiencia general frente a nuestra propuesta.
 
 ### 4.e Aplicación del método Eye Tracking 
-![Método UX](../img/eye-tracking.png)
-----
-
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
-
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione)
->>>
->>> 
-![HeatMAp 1](../img/Gaze1.jpg) 
-![HeatMAp 2](../img/Gaze2.jpg) 
-![HeatMAp 3](../img/Gaze3.jpg) 
-![Método UX](../img/eye-tracking.png)
 ----
 **Objetivo y Diseño del Experimento**
 Se analizó el recorrido visual de los usuarios mediante mapas de calor (Heatmaps) para evaluar el Diseño B (web de hamburguesas). El objetivo principal fue detectar problemas de visibilidad, validar la jerarquía visual diseñada por el equipo y comprobar si los usuarios localizan de forma intuitiva las llamadas a la acción (CTA) y la navegación principal. 
 
-Para el experimento, se rasterizaron 2 pantallas clave del Caso B. Se definió un escenario con tareas de búsqueda específicas antes de exponer al usuario al estímulo visual.
+Para el experimento, se rasterizaron 3 pantallas clave del Caso B. Se definió un escenario con tareas de búsqueda específicas antes de exponer al usuario al estímulo visual y si veíamos que había problemas les dejabamos libre navegación, ya que Gaze son imagenes y no tiene funciones dinámicas.
 
 **Reclutamiento y Herramienta**
 * **Herramienta:** GazeMapping (Instalación local). 
@@ -316,13 +300,13 @@ Para el experimento, se rasterizaron 2 pantallas clave del Caso B. Se definió u
 **Evidencia Visual (Heatmap)**
 
 ![Mapa de Calor 1](../img/Gaze1.jpg)  
-*Figura 1: Mapa de calor del Caso B mostrando la dispersión de la mirada en la pantalla principal. (Nota: La alta concentración en el centro indica que el usuario localizó rápidamente la imagen principal, pero tardó más en encontrar el menú superior).*
+*En el mapa de calor de la Figura 1 , se evidencia que las imágenes fotográficas de las hamburguesas son el principal imán visual de la página, concentrando las fijaciones más prolongadas. Sin embargo, se detecta un claro problema de jerarquía visual en la navegación superior: el botón secundario 'Reservar' acapara casi toda la atención inicial gracias a su color amarillo vibrante, mientras que el botón principal de 'Hacer Pedido', al ser oscuro, pasa prácticamente desapercibido .*
 
 ![Mapa de Calor 2](../img/Gaze.jpg)  
-*Figura 2: Mapa de calor del Caso B mostrando la dispersión de la mirada en la pantalla principal. (Nota: La alta concentración en el centro indica que el usuario localizó rápidamente la imagen principal, pero tardó más en encontrar el menú superior).*
+*El mapa de calor de la Figura 2 , correspondiente a la vista de la carta completa, revela un patrón de escaneo horizontal muy marcado a través de la cuadrícula de productos. La alta densidad de fijaciones  en las filas centrales sugiere que el usuario realizó un esfuerzo cognitivo considerable para comparar las distintas opciones, alternando su mirada constantemente de izquierda a derecha entre las fotografías, los ingredientes y los precios. Asimismo, se evidencia cierta fatiga visual a medida que desciende por la pantalla, ya que la intensidad de las miradas disminuye notablemente en la última fila.*
 
 ![Mapa de Calor 3](../img/Gaze3.jpg)  
-*Figura 3: Mapa de calor del Caso B mostrando la dispersión de la mirada en la pantalla principal. (Nota: La alta concentración en el centro indica que el usuario localizó rápidamente la imagen principal, pero tardó más en encontrar el menú superior).*
+*El mapa de calor de la Figura 3 , correspondiente a la vista mixta de catálogo y carrito, muestra una clara división de la atención del usuario entre la zona central de productos y el panel derecho de 'Resumen del Pedido'. Resulta muy positivo observar que el botón de llamada a la acción 'Finalizar Compra' logra captar una fijación directa e intensa , confirmando que su ubicación lateral es efectiva para guiar el flujo de pago. Además, se aprecia una fuerte concentración visual en la barra de búsqueda superior y en el título de la categoría ('Hamburguesas').*
 
 ### 4.f Usability Report de B
 ![Método UX](../img/usability-report.png) 
