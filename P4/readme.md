@@ -302,7 +302,7 @@ Para el experimento, se rasterizaron 3 pantallas clave del Caso B. Se definió u
 ![Mapa de Calor 1](../img/Gaze1.jpg)  
 *En el mapa de calor de la Figura 1 , se evidencia que las imágenes fotográficas de las hamburguesas son el principal imán visual de la página, concentrando las fijaciones más prolongadas. Sin embargo, se detecta un claro problema de jerarquía visual en la navegación superior: el botón secundario 'Reservar' acapara casi toda la atención inicial gracias a su color amarillo vibrante, mientras que el botón principal de 'Hacer Pedido', al ser oscuro, pasa prácticamente desapercibido .*
 
-![Mapa de Calor 2](../img/Gaze.jpg)  
+![Mapa de Calor 2](../img/Gaze2.jpg)  
 *El mapa de calor de la Figura 2 , correspondiente a la vista de la carta completa, revela un patrón de escaneo horizontal muy marcado a través de la cuadrícula de productos. La alta densidad de fijaciones  en las filas centrales sugiere que el usuario realizó un esfuerzo cognitivo considerable para comparar las distintas opciones, alternando su mirada constantemente de izquierda a derecha entre las fotografías, los ingredientes y los precios. Asimismo, se evidencia cierta fatiga visual a medida que desciende por la pantalla, ya que la intensidad de las miradas disminuye notablemente en la última fila.*
 
 ![Mapa de Calor 3](../img/Gaze3.jpg)  
