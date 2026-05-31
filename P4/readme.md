@@ -296,8 +296,12 @@ El Caso A logra mayores tasas de éxito y requiere un menor esfuerzo cognitivo y
 ![experimento](img/experimentoET.png)  
 >>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
+>>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione)
+>>>
+>>> 
+![HeatMAp 1](../img/Gaze1.jpg) 
+![HeatMAp 2](../img/Gaze2.jpg) 
+![HeatMAp 3](../img/Gaze3.jpg) 
 ![Método UX](../img/eye-tracking.png)
 ----
 **Objetivo y Diseño del Experimento**
@@ -309,20 +313,16 @@ Para el experimento, se rasterizaron 2 pantallas clave del Caso B. Se definió u
 * **Herramienta:** GazeMapping (Instalación local). 
 * **Muestra:** Se realizó el seguimiento ocular a un subgrupo de 3 usuarios externos (perfiles representativos P06, P07 y P08), asegurando unas condiciones óptimas de iluminación y calibración de la webcam.
 
-**Resultados del Análisis Visual (Áreas de Interés - AOI)**
-A continuación, se detallan las métricas obtenidas sobre los elementos clave de la interfaz. Se ha medido el TTFF (*Time to First Fixation* o Tiempo hasta que el usuario miró el elemento por primera vez) y el porcentaje de usuarios que llegaron a visualizarlo.
-
-| AOI (Área de Interés) | Tarea Asociada | TTFF (s) | % Usuarios que la vieron |
-| :--- | :--- | :--- | :--- |
-| **Botón principal (Pedir Hamburguesa)** | Realizar pedido |  s |  % |
-| **Menú de navegación** | Buscar alérgenos/carta |  s |  % |
-| **Banner promocional** | Exploración libre |  s |  % |
-| **Icono de Usuario** | Acceder a la cuenta |  s |  % |
-
 **Evidencia Visual (Heatmap)**
 
-![Mapa de Calor Experimento](../img/experimentoET.png)  
+![Mapa de Calor 1](../img/Gaze1.jpg)  
 *Figura 1: Mapa de calor del Caso B mostrando la dispersión de la mirada en la pantalla principal. (Nota: La alta concentración en el centro indica que el usuario localizó rápidamente la imagen principal, pero tardó más en encontrar el menú superior).*
+
+![Mapa de Calor 2](../img/Gaze.jpg)  
+*Figura 2: Mapa de calor del Caso B mostrando la dispersión de la mirada en la pantalla principal. (Nota: La alta concentración en el centro indica que el usuario localizó rápidamente la imagen principal, pero tardó más en encontrar el menú superior).*
+
+![Mapa de Calor 3](../img/Gaze3.jpg)  
+*Figura 3: Mapa de calor del Caso B mostrando la dispersión de la mirada en la pantalla principal. (Nota: La alta concentración en el centro indica que el usuario localizó rápidamente la imagen principal, pero tardó más en encontrar el menú superior).*
 
 ### 4.f Usability Report de B
 ![Método UX](../img/usability-report.png) 
