@@ -94,4 +94,7 @@ GUIDELINES :
 ![Enlace-Figma](https://www.figma.com/design/DlaIN69uGoao094M4bazr5/UI-Kit---Gran%C3%A1-en-Grano?node-id=2-7&t=wYMXB6be8SmdRXuI-1)
 ![Nuestra Web](https://side-pro-91637215.figma.site)
 
+* Enlace-Figma: (https://www.figma.com/design/DlaIN69uGoao094M4bazr5/UI-Kit---Gran%C3%A1-en-Grano?node-id=2-7&t=wYMXB6be8SmdRXuI-1)
+* Nuestra Web: (https://side-pro-91637215.figma.site)
+
 <br>
