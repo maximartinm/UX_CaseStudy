@@ -678,6 +678,8 @@ Para tangibilizar el trabajo de prototipado realizado en la Práctica 3, se ha l
 
 * Nuestra WEB publicada: [https://side-pro-91637215.figma.site]
 
+* Y esta pasado a react en la carpeta React/grana-en-grano-react en la carpeta P5
+
 Esta tarea se ha ejecutado aprovechando las capacidades de publicación de Figma (Figma to Web / exportación a frameworks basados en componentes). Durante este proceso hemos validado que la estructura del box-model (márgenes, paddings y flexbox) configurada en nuestros diseños se traduce correctamente a código CSS/React, asegurando que la responsividad planeada (Tab bar inferior, redistribución de tarjetas de producto) se mantiene fiel al diseño original en diferentes resoluciones de pantalla.
 
 
